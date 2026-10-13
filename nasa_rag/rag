@@ -1,0 +1,3 @@
+#!/bin/zsh
+# Launcher: runs rag.py inside the uv-managed venv from anywhere.
+exec uv run --project "$HOME/nasa_rag" python "$HOME/nasa_rag/rag.py" "$@"

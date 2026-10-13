@@ -1,0 +1,11 @@
+[project]
+name = "nasa-rag"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.2",
+    "openpyxl>=3.1.5",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=6.0.0",
+]

@@ -1,0 +1,868 @@
+{
+ "Pioneer 2016": {
+  "coverage": {
+   "any area observation": {
+    "n": 172,
+    "interval_h": {
+     "n": 171,
+     "median": 6.25,
+     "p90": 24.0,
+     "max": 169.0,
+     "mean": 15.123099415204678
+    },
+    "share_over_12h": 0.4327485380116959
+   },
+   "spatial (mapped or satellite)": {
+    "n": 89,
+    "interval_h": {
+     "n": 88,
+     "median": 18.841666666666665,
+     "p90": 30.365,
+     "max": 140.25,
+     "mean": 19.488636363636363
+    },
+    "share_over_12h": 0.6590909090909091
+   },
+   "mapped perimeter only": {
+    "n": 89,
+    "interval_h": {
+     "n": 88,
+     "median": 18.841666666666665,
+     "p90": 30.365,
+     "max": 140.25,
+     "mean": 19.488636363636363
+    },
+    "share_over_12h": 0.6590909090909091
+   },
+   "hours_ignition_to_first_spatial": 13.716666666666667,
+   "observations_by_family": {
+    "report": 85,
+    "mapped": 89
+   }
+  },
+  "gap_record": "mapped (aircraft / GeoMAC)",
+  "gaps_over_12h": 58,
+  "longest_gaps": [
+   {
+    "fire": "Pioneer 2016",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2016-09-18 18:00:00",
+    "end": "2016-09-24 14:15:00",
+    "hours": 140.2,
+    "acres_start": 188488,
+    "acres_end": 188404,
+    "growth_acres": -83,
+    "satellite_obs_inside": 0,
+    "reports_inside": 7,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Pioneer 2016",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2016-09-24 14:15:00",
+    "end": "2016-09-26 19:49:00",
+    "hours": 53.6,
+    "acres_start": 188404,
+    "acres_end": 188404,
+    "growth_acres": 0,
+    "satellite_obs_inside": 0,
+    "reports_inside": 3,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Pioneer 2016",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2016-08-11 18:00:00",
+    "end": "2016-08-13 16:04:00",
+    "hours": 46.1,
+    "acres_start": 66908,
+    "acres_end": 71181,
+    "growth_acres": 4273,
+    "satellite_obs_inside": 0,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Pioneer 2016",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2016-09-10 18:18:00",
+    "end": "2016-09-12 14:49:00",
+    "hours": 44.5,
+    "acres_start": 184367,
+    "acres_end": 184456,
+    "growth_acres": 89,
+    "satellite_obs_inside": 0,
+    "reports_inside": 3,
+    "documented_events_inside": "12 Sep 00:00 Jenner / NASA 2016, report dated 12 Sep, p. 2: New: Reports 185,895 acres on 12 September. Add a reported-area point and compare with the archive's 184,455.9",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Pioneer 2016",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2016-09-05 19:19:00",
+    "end": "2016-09-07 14:19:00",
+    "hours": 43.0,
+    "acres_start": 181297,
+    "acres_end": 181383,
+    "growth_acres": 87,
+    "satellite_obs_inside": 0,
+    "reports_inside": 1,
+    "documented_events_inside": "06 Sep 00:00 USFS Pioneer Fire Inquiry 2016, PDF pp. 4, 8\u201312: New: Describes prior burn scars near Lowman, Rabbit Creek and Trapper Ridge, and a proposed Burns Ridge line r",
+    "crew_hazard_inside": ""
+   }
+  ],
+  "gap_hours_total": 1546.3,
+  "growth_in_gaps": 171074,
+  "gaps_uncovered_by_satellite": 57,
+  "final_acres": 188404,
+  "timestamp_flags": 0,
+  "staleness_pct_by_family": {
+   "mapped (aircraft / GeoMAC)": {
+    "n": 73,
+    "median": 1.538196608976727,
+    "p90": 20.663672634786714,
+    "max": 74.17756510371187,
+    "mean": 7.320646902064269
+   },
+   "satellite (GOFER or FEDS)": {
+    "n": 0
+   },
+   "incident report (ICS-209)": {
+    "n": 62,
+    "median": 3.090973161956124,
+    "p90": 27.351917375131496,
+    "max": 71.42857142857143,
+    "mean": 9.53517278795109
+   }
+  },
+  "hazard_information_age": [],
+  "mapped_obs_night_share": 0.21348314606741572,
+  "start_records": [
+   [
+    "First report by Casner Fire lead plane (Gabbert 2016, p.2)",
+    "2016-07-18 17:17:00"
+   ],
+   [
+    "ICS-209 discovery time",
+    "2016-07-18 18:09:00"
+   ]
+  ],
+  "start_spread_min": 52.0,
+  "start_spread_excl_209_min": 0,
+  "containment_records": [
+   [
+    "Rodriguez 2020 / 209 at 100%",
+    "2016-11-03"
+   ],
+   [
+    "Clements 2018",
+    "2016-11-04"
+   ]
+  ],
+  "containment_spread_days": 1
+ },
+ "Carr 2018": {
+  "coverage": {
+   "any area observation": {
+    "n": 225,
+    "interval_h": {
+     "n": 224,
+     "median": 3.0,
+     "p90": 10.0,
+     "max": 12.0,
+     "mean": 4.569047619047619
+    },
+    "share_over_12h": 0.0
+   },
+   "spatial (mapped or satellite)": {
+    "n": 146,
+    "interval_h": {
+     "n": 145,
+     "median": 9.0,
+     "p90": 12.0,
+     "max": 12.0,
+     "mean": 7.0344827586206895
+    },
+    "share_over_12h": 0.0
+   },
+   "mapped perimeter only": {
+    "n": 61,
+    "interval_h": {
+     "n": 60,
+     "median": 17.883333333333333,
+     "p90": 24.41,
+     "max": 76.11666666666666,
+     "mean": 15.159444444444444
+    },
+    "share_over_12h": 0.55
+   },
+   "hours_ignition_to_first_spatial": 3.85,
+   "observations_by_family": {
+    "report": 80,
+    "satellite": 86,
+    "mapped": 61,
+    "event": 1
+   }
+  },
+  "gap_record": "mapped (aircraft / GeoMAC)",
+  "gaps_over_12h": 33,
+  "longest_gaps": [
+   {
+    "fire": "Carr 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-08-22 13:55:00",
+    "end": "2018-08-25 18:02:00",
+    "hours": 76.1,
+    "acres_start": 229651,
+    "acres_end": 229651,
+    "growth_acres": 0,
+    "satellite_obs_inside": 7,
+    "reports_inside": 5,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Carr 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-08-20 14:24:00",
+    "end": "2018-08-22 13:55:00",
+    "hours": 47.5,
+    "acres_start": 229651,
+    "acres_end": 229651,
+    "growth_acres": 0,
+    "satellite_obs_inside": 4,
+    "reports_inside": 4,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Carr 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-08-25 18:02:00",
+    "end": "2018-08-27 17:00:00",
+    "hours": 47.0,
+    "acres_start": 229651,
+    "acres_end": 229651,
+    "growth_acres": 0,
+    "satellite_obs_inside": 3,
+    "reports_inside": 1,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Carr 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-08-27 17:00:00",
+    "end": "2018-08-29 04:00:00",
+    "hours": 35.0,
+    "acres_start": 229651,
+    "acres_end": 229651,
+    "growth_acres": 0,
+    "satellite_obs_inside": 2,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Carr 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-08-29 04:00:00",
+    "end": "2018-08-30 05:12:00",
+    "hours": 25.2,
+    "acres_start": 229651,
+    "acres_end": 229651,
+    "growth_acres": 0,
+    "satellite_obs_inside": 3,
+    "reports_inside": 1,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   }
+  ],
+  "gap_hours_total": 823.3,
+  "growth_in_gaps": 136500,
+  "gaps_uncovered_by_satellite": 0,
+  "final_acres": 229651,
+  "timestamp_flags": 2,
+  "staleness_pct_by_family": {
+   "mapped (aircraft / GeoMAC)": {
+    "n": 47,
+    "median": 2.038025873765363,
+    "p90": 12.866965021566376,
+    "max": 85.45553734458592,
+    "mean": 7.296824616637331
+   },
+   "satellite (GOFER or FEDS)": {
+    "n": 54,
+    "median": 1.3008172723648919,
+    "p90": 7.899922765417529,
+    "max": 71.54487173891866,
+    "mean": 5.695730972928241
+   },
+   "incident report (ICS-209)": {
+    "n": 52,
+    "median": 2.2675100629881833,
+    "p90": 30.52662239682926,
+    "max": 66.135,
+    "mean": 7.819078018618001
+   }
+  },
+  "hazard_information_age": [
+   {
+    "fire": "Carr 2018",
+    "hazard": "Dozer burnover, fire whirl, 18:38 aerial warning, 19:40 mayday",
+    "hazard_start": "2018-07-26 17:30:00",
+    "hours_since_ignition": 76.35,
+    "mapped (aircraft / GeoMAC): newest before": "2018-07-26 14:00:00",
+    "mapped (aircraft / GeoMAC): age h": 3.5,
+    "mapped (aircraft / GeoMAC): size then": 48237,
+    "mapped (aircraft / GeoMAC): next after": "2018-07-26 17:34:00",
+    "mapped (aircraft / GeoMAC): size next": 44484,
+    "satellite (GOFER or FEDS): newest before": "2018-07-26 17:00:00",
+    "satellite (GOFER or FEDS): age h": 0.5,
+    "satellite (GOFER or FEDS): size then": 57659,
+    "satellite (GOFER or FEDS): next after": "2018-07-27 05:00:00",
+    "satellite (GOFER or FEDS): size next": 60416,
+    "incident report (ICS-209): newest before": "2018-07-26 07:00:00",
+    "incident report (ICS-209): age h": 10.5,
+    "incident report (ICS-209): size then": 20000,
+    "incident report (ICS-209): next after": "2018-07-26 19:45:00",
+    "incident report (ICS-209): size next": 28763
+   }
+  ],
+  "mapped_obs_night_share": 0.09836065573770492,
+  "start_records": [
+   [
+    "Investigator ignition estimate (USFS 2021, pp.3, 6)",
+    "2018-07-23 13:09:00"
+   ],
+   [
+    "CAL FIRE administrative start",
+    "2018-07-23 13:15:00"
+   ],
+   [
+    "ICS-209 discovery time",
+    "2018-07-23 15:00:00"
+   ]
+  ],
+  "start_spread_min": 111.0,
+  "start_spread_excl_209_min": 6.0,
+  "containment_records": [
+   [
+    "CAL FIRE webpage 09:37",
+    "2018-08-30"
+   ],
+   [
+    "ICS-209 F report",
+    "2018-08-30"
+   ]
+  ],
+  "containment_spread_days": 0
+ },
+ "LNU 2020": {
+  "coverage": {
+   "any area observation": {
+    "n": 335,
+    "interval_h": {
+     "n": 334,
+     "median": 1.0,
+     "p90": 7.174999999999997,
+     "max": 338.0,
+     "mean": 3.3102794411177645
+    },
+    "share_over_12h": 0.04790419161676647
+   },
+   "spatial (mapped or satellite)": {
+    "n": 278,
+    "interval_h": {
+     "n": 277,
+     "median": 1.0,
+     "p90": 1.0,
+     "max": 12.0,
+     "mean": 1.3104693140794224
+    },
+    "share_over_12h": 0.0
+   },
+   "mapped perimeter only": {
+    "n": 0,
+    "interval_h": {
+     "n": 0
+    },
+    "share_over_12h": null
+   },
+   "hours_ignition_to_first_spatial": 3.0,
+   "observations_by_family": {
+    "satellite": 300,
+    "report": 63,
+    "mapped_dateonly": 1,
+    "event": 1
+   }
+  },
+  "gap_record": "satellite (GOFER or FEDS)",
+  "gaps_over_12h": 0,
+  "longest_gaps": [],
+  "gap_hours_total": 0,
+  "growth_in_gaps": 0,
+  "gaps_uncovered_by_satellite": 0,
+  "final_acres": 363220,
+  "timestamp_flags": 0,
+  "staleness_pct_by_family": {
+   "mapped (aircraft / GeoMAC)": {
+    "n": 0
+   },
+   "satellite (GOFER or FEDS)": {
+    "n": 137,
+    "median": 0.37026985396053225,
+    "p90": 11.464505745977739,
+    "max": 84.95316159250585,
+    "mean": 4.270736412259156
+   },
+   "incident report (ICS-209)": {
+    "n": 17,
+    "median": 1.8565096522981555,
+    "p90": 32.761492698756086,
+    "max": 62.75181305398872,
+    "mean": 10.77094831750992
+   }
+  },
+  "hazard_information_age": [],
+  "mapped_obs_night_share": null,
+  "start_records": [
+   [
+    "GOFER reference ignition time",
+    "2020-08-17 06:00:00"
+   ],
+   [
+    "CAL FIRE incident update, 1 Sep 2020, p.1",
+    "2020-08-17 06:40:00"
+   ],
+   [
+    "CAL FIRE incident webpage",
+    "2020-08-17 08:00:00"
+   ],
+   [
+    "ICS-209 discovery time",
+    "2020-08-17 13:57:00"
+   ]
+  ],
+  "start_spread_min": 477.0,
+  "start_spread_excl_209_min": 120.0,
+  "containment_records": [
+   [
+    "ICS-209 at 100%",
+    "2020-09-30"
+   ],
+   [
+    "ICS-209 F report",
+    "2020-10-01"
+   ],
+   [
+    "CAL FIRE webpage 10:38",
+    "2020-10-02"
+   ]
+  ],
+  "containment_spread_days": 2
+ },
+ "Camp 2018": {
+  "coverage": {
+   "any area observation": {
+    "n": 109,
+    "interval_h": {
+     "n": 108,
+     "median": 3.75,
+     "p90": 8.766666666666666,
+     "max": 12.0,
+     "mean": 4.834259259259259
+    },
+    "share_over_12h": 0.0
+   },
+   "spatial (mapped or satellite)": {
+    "n": 71,
+    "interval_h": {
+     "n": 70,
+     "median": 6.916666666666666,
+     "p90": 12.0,
+     "max": 12.0,
+     "mean": 7.458571428571428
+    },
+    "share_over_12h": 0.0
+   },
+   "mapped perimeter only": {
+    "n": 28,
+    "interval_h": {
+     "n": 27,
+     "median": 14.5,
+     "p90": 21.593333333333334,
+     "max": 93.28333333333333,
+     "mean": 15.128395061728394
+    },
+    "share_over_12h": 0.5185185185185185
+   },
+   "hours_ignition_to_first_spatial": 3.4833333333333334,
+   "observations_by_family": {
+    "mapped": 28,
+    "satellite": 44,
+    "report": 38
+   }
+  },
+  "gap_record": "mapped (aircraft / GeoMAC)",
+  "gaps_over_12h": 14,
+  "longest_gaps": [
+   {
+    "fire": "Camp 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-11-21 13:05:00",
+    "end": "2018-11-25 10:22:00",
+    "hours": 93.3,
+    "acres_start": 153336,
+    "acres_end": 153336,
+    "growth_acres": 0,
+    "satellite_obs_inside": 8,
+    "reports_inside": 9,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Camp 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-11-20 12:05:00",
+    "end": "2018-11-21 13:05:00",
+    "hours": 25.0,
+    "acres_start": 152688,
+    "acres_end": 153336,
+    "growth_acres": 648,
+    "satellite_obs_inside": 2,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Camp 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-11-10 13:10:00",
+    "end": "2018-11-11 10:48:00",
+    "hours": 21.6,
+    "acres_start": 114866,
+    "acres_end": 128799,
+    "growth_acres": 13933,
+    "satellite_obs_inside": 2,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Camp 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-11-11 16:31:00",
+    "end": "2018-11-12 14:05:00",
+    "hours": 21.6,
+    "acres_start": 130394,
+    "acres_end": 138127,
+    "growth_acres": 7733,
+    "satellite_obs_inside": 1,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   },
+   {
+    "fire": "Camp 2018",
+    "record": "mapped (aircraft / GeoMAC)",
+    "start": "2018-11-18 14:20:00",
+    "end": "2018-11-19 10:44:00",
+    "hours": 20.4,
+    "acres_start": 151472,
+    "acres_end": 152761,
+    "growth_acres": 1289,
+    "satellite_obs_inside": 2,
+    "reports_inside": 2,
+    "documented_events_inside": "",
+    "crew_hazard_inside": ""
+   }
+  ],
+  "gap_hours_total": 342.5,
+  "growth_in_gaps": 109223,
+  "gaps_uncovered_by_satellite": 0,
+  "final_acres": 153336.0,
+  "timestamp_flags": 0,
+  "staleness_pct_by_family": {
+   "mapped (aircraft / GeoMAC)": {
+    "n": 17,
+    "median": 2.8849615271202724,
+    "p90": 15.798751440952705,
+    "max": 35.66004949736134,
+    "mean": 6.741139238713468
+   },
+   "satellite (GOFER or FEDS)": {
+    "n": 23,
+    "median": 1.039973977378113,
+    "p90": 6.265241386924963,
+    "max": 11.918236459750357,
+    "mean": 2.54726359049748
+   },
+   "incident report (ICS-209)": {
+    "n": 26,
+    "median": 1.7858566531132904,
+    "p90": 10.555555555555555,
+    "max": 74.28571428571429,
+    "mean": 6.1396168675898295
+   }
+  },
+  "hazard_information_age": [
+   {
+    "fire": "Camp 2018",
+    "hazard": "19 NIST burnovers",
+    "hazard_start": "2018-11-08 07:50:00",
+    "hours_since_ignition": 1.42,
+    "mapped (aircraft / GeoMAC): newest before": "none since ignition",
+    "mapped (aircraft / GeoMAC): age h": 1.42,
+    "mapped (aircraft / GeoMAC): size then": 0,
+    "mapped (aircraft / GeoMAC): next after": "2018-11-08 09:54:00",
+    "mapped (aircraft / GeoMAC): size next": 54586,
+    "satellite (GOFER or FEDS): newest before": "none since ignition",
+    "satellite (GOFER or FEDS): age h": 1.42,
+    "satellite (GOFER or FEDS): size then": 0,
+    "satellite (GOFER or FEDS): next after": "2018-11-08 16:00:00",
+    "satellite (GOFER or FEDS): size next": 81810,
+    "incident report (ICS-209): newest before": "none since ignition",
+    "incident report (ICS-209): age h": 1.42,
+    "incident report (ICS-209): size then": 0,
+    "incident report (ICS-209): next after": "2018-11-08 18:30:00",
+    "incident report (ICS-209): size next": 16000
+   },
+   {
+    "fire": "Camp 2018",
+    "hazard": "Rattlesnake Flats hand crew burnover",
+    "hazard_start": "2018-11-08 14:15:00",
+    "hours_since_ignition": 7.83,
+    "mapped (aircraft / GeoMAC): newest before": "2018-11-08 09:54:00",
+    "mapped (aircraft / GeoMAC): age h": 4.35,
+    "mapped (aircraft / GeoMAC): size then": 54586,
+    "mapped (aircraft / GeoMAC): next after": "2018-11-08 16:00:00",
+    "mapped (aircraft / GeoMAC): size next": 70454,
+    "satellite (GOFER or FEDS): newest before": "none since ignition",
+    "satellite (GOFER or FEDS): age h": 7.83,
+    "satellite (GOFER or FEDS): size then": 0,
+    "satellite (GOFER or FEDS): next after": "2018-11-08 16:00:00",
+    "satellite (GOFER or FEDS): size next": 81810,
+    "incident report (ICS-209): newest before": "none since ignition",
+    "incident report (ICS-209): age h": 7.83,
+    "incident report (ICS-209): size then": 0,
+    "incident report (ICS-209): next after": "2018-11-08 18:30:00",
+    "incident report (ICS-209): size next": 16000
+   }
+  ],
+  "mapped_obs_night_share": 0.03571428571428571,
+  "start_records": [
+   [
+    "NIST first observations (Maranghides et al 2021, p.19)",
+    "2018-11-08 06:25:00"
+   ],
+   [
+    "CAL FIRE start (Green Sheet)",
+    "2018-11-08 06:29:00"
+   ],
+   [
+    "ICS-209 discovery time",
+    "2018-11-08 08:29:00"
+   ]
+  ],
+  "start_spread_min": 124.0,
+  "start_spread_excl_209_min": 4.0,
+  "containment_records": [
+   [
+    "ICS-209 at 100%",
+    "2018-11-25"
+   ],
+   [
+    "NICC annual table",
+    "2018-11-25"
+   ]
+  ],
+  "containment_spread_days": 0
+ },
+ "GOFER_LNU": {
+  "hours": 270,
+  "start": "2020-08-17 09:00:00",
+  "end": "2020-08-28 14:00:00",
+  "end_acres": 380233.6528379821,
+  "peak_hourly_growth": [
+   "2020-08-19 10:00:00",
+   27991.35629645607
+  ],
+  "top_hours": [
+   [
+    "2020-08-19 10:00:00",
+    27991.35629645607
+   ],
+   [
+    "2020-08-19 02:00:00",
+    21225.6109518851
+   ],
+   [
+    "2020-08-19 14:00:00",
+    21169.765135673515
+   ],
+   [
+    "2020-08-19 03:00:00",
+    21067.95771850906
+   ],
+   [
+    "2020-08-19 17:00:00",
+    16274.854634190444
+   ],
+   [
+    "2020-08-19 00:00:00",
+    15293.352059002871
+   ]
+  ],
+  "night_share_of_growth": 0.3715457938334698,
+  "night_def": "20:00 to 06:00 PDT",
+  "cadence_curve": [
+   {
+    "cadence_h": 1,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 0.0,
+    "p90_acres": 0.0,
+    "max_acres": 0.0,
+    "mean_pct": 0.0,
+    "p90_pct": 0.0,
+    "max_pct": 0.0
+   },
+   {
+    "cadence_h": 1,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 0.0,
+    "p90_acres": 0.0,
+    "max_acres": 0.0,
+    "mean_pct": 0.0,
+    "p90_pct": 0.0,
+    "max_pct": 0.0
+   },
+   {
+    "cadence_h": 2,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 705.0893035043988,
+    "p90_acres": 1413.6898873736532,
+    "max_acres": 27991.35629645607,
+    "mean_pct": 1.0899038115058801,
+    "p90_pct": 0.9031751398702781,
+    "max_pct": 84.95316159250585
+   },
+   {
+    "cadence_h": 2,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 1524.8369934584655,
+    "p90_acres": 4271.710729422863,
+    "max_acres": 27991.35629645607,
+    "mean_pct": 2.6040490846668183,
+    "p90_pct": 5.63674168655645,
+    "max_pct": 84.95316159250585
+   },
+   {
+    "cadence_h": 3,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 1412.447317809844,
+    "p90_acres": 3470.1008719434158,
+    "max_acres": 42293.56867039416,
+    "mean_pct": 2.1176491964620063,
+    "p90_pct": 3.3402568756852995,
+    "max_pct": 84.95316159250585
+   },
+   {
+    "cadence_h": 3,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 3063.5361414029167,
+    "p90_acres": 9857.849114484046,
+    "max_acres": 42293.56867039416,
+    "mean_pct": 5.07017430998421,
+    "p90_pct": 16.054485243848656,
+    "max_pct": 84.95316159250585
+   },
+   {
+    "cadence_h": 6,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 3545.177645222697,
+    "p90_acres": 10564.545794942027,
+    "max_acres": 78515.51101275856,
+    "mean_pct": 4.545342545982359,
+    "p90_pct": 12.86187848512527,
+    "max_pct": 89.72958571999466
+   },
+   {
+    "cadence_h": 6,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 7750.216980117763,
+    "p90_acres": 22034.139760045655,
+    "max_acres": 78515.51101275856,
+    "mean_pct": 10.931725056405648,
+    "p90_pct": 39.554087530966136,
+    "max_pct": 89.72958571999466
+   },
+   {
+    "cadence_h": 12,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 7874.6048188601435,
+    "p90_acres": 22536.677974335464,
+    "max_acres": 126165.58303721648,
+    "mean_pct": 8.225121142516988,
+    "p90_pct": 35.31053468978961,
+    "max_pct": 91.20966822483183
+   },
+   {
+    "cadence_h": 12,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 17413.566394773952,
+    "p90_acres": 58195.047073187714,
+    "max_acres": 126165.58303721648,
+    "mean_pct": 19.97554245059798,
+    "p90_pct": 62.260144005991876,
+    "max_pct": 91.20966822483183
+   },
+   {
+    "cadence_h": 24,
+    "window": "whole record 17 to 28 Aug",
+    "mean_acres": 16810.715200355113,
+    "p90_acres": 47336.98950613901,
+    "max_acres": 221707.39614920714,
+    "mean_pct": 12.980764371047526,
+    "p90_pct": 56.719085060757685,
+    "max_pct": 97.0597463269347
+   },
+   {
+    "cadence_h": 24,
+    "window": "growth phase 17 to 21 Aug",
+    "mean_acres": 38050.214835664105,
+    "p90_acres": 120601.21463626255,
+    "max_acres": 221707.39614920714,
+    "mean_pct": 32.1591927659254,
+    "p90_pct": 86.43212116431333,
+    "max_pct": 97.0597463269347
+   }
+  ],
+  "ratio_vs_sources": {
+   "satellite (FEDS)": {
+    "n": 22,
+    "median": 1.0110000000000001,
+    "p90": 1.2228,
+    "max": 1.249,
+    "mean": 1.0512272727272727
+   },
+   "report": {
+    "n": 23,
+    "median": 1.053,
+    "p90": 2.2136,
+    "max": 4.09,
+    "mean": 1.4360869565217391
+   },
+   "mapped_dateonly": {
+    "n": 1,
+    "median": 1.026,
+    "p90": 1.026,
+    "max": 1.026,
+    "mean": 1.026
+   }
+  }
+ }
+}

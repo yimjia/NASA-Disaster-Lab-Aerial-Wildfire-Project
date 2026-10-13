@@ -1,0 +1,1177 @@
+[
+  {
+    "category": "fire_progression",
+    "name": "NIFC Historic GeoMAC Perimeters 2018: Camp 2018 perimeter history",
+    "provider": "NIFC (GeoMAC archive, USGS/NIFC)",
+    "fires_covered": [
+      "Camp 2018"
+    ],
+    "temporal_resolution": "irregular, roughly 1 to 2 per day (28 perimeters, 2018-11-08 to 2018-11-25), timestamp field perimeterdatetime (UTC epoch ms)",
+    "spatial_resolution": "vector polygons, source mapping method varies (IR image, GPS, hand sketch, mixed)",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Geomac_Perimeters_2018/FeatureServer/0/query?where=uniquefireidentifier='2018-CABTU-016737'&outFields=*&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "17.27 MB",
+    "uq_use": "perimeter observation error and latency (mapmethod, perimeterdatetime vs datecurrent), ROS model error residuals, arrival-time calibration for ELMFIRE/GridFire/FARSITE ensembles",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Camp_2018_NIFC_GeoMAC_perimeter_history.geojson",
+    "notes": "uniquefireidentifier 2018-CABTU-016737. Several perimeters per day come from different methods and can shrink between records (e.g. Camp 'Mixed Methods' vs 'Infrared Image'); treat as noisy observations, not a monotone sequence.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIFC Historic GeoMAC Perimeters 2018: Carr 2018 perimeter history",
+    "provider": "NIFC (GeoMAC archive, USGS/NIFC)",
+    "fires_covered": [
+      "Carr 2018"
+    ],
+    "temporal_resolution": "irregular, roughly 1 to 2 per day (63 perimeters, 2018-07-23 to 2018-08-31), timestamp field perimeterdatetime (UTC epoch ms)",
+    "spatial_resolution": "vector polygons, source mapping method varies (IR image, GPS, hand sketch, mixed)",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Geomac_Perimeters_2018/FeatureServer/0/query?where=uniquefireidentifier='2018-CAWNP-001084'&outFields=*&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "21.64 MB",
+    "uq_use": "perimeter observation error and latency (mapmethod, perimeterdatetime vs datecurrent), ROS model error residuals, arrival-time calibration for ELMFIRE/GridFire/FARSITE ensembles",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Carr_2018_NIFC_GeoMAC_perimeter_history.geojson",
+    "notes": "uniquefireidentifier 2018-CAWNP-001084. Several perimeters per day come from different methods and can shrink between records (e.g. Camp 'Mixed Methods' vs 'Infrared Image'); treat as noisy observations, not a monotone sequence.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIFC Historic GeoMAC Perimeters 2016: Pioneer 2016 perimeter history",
+    "provider": "NIFC (GeoMAC archive, USGS/NIFC)",
+    "fires_covered": [
+      "Pioneer 2016"
+    ],
+    "temporal_resolution": "irregular, roughly 1 to 2 per day (89 perimeters, 2016-07-19 to 2016-09-29), timestamp field perimeterdatetime (UTC epoch ms)",
+    "spatial_resolution": "vector polygons, source mapping method varies (IR image, GPS, hand sketch, mixed)",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Geomac_Perimeters_2016/FeatureServer/0/query?where=uniquefireidentifier='2016-IDBOF-000539'&outFields=*&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "37.94 MB",
+    "uq_use": "perimeter observation error and latency (mapmethod, perimeterdatetime vs datecurrent), ROS model error residuals, arrival-time calibration for ELMFIRE/GridFire/FARSITE ensembles",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Pioneer_2016_NIFC_GeoMAC_perimeter_history.geojson",
+    "notes": "uniquefireidentifier 2016-IDBOF-000539. Several perimeters per day come from different methods and can shrink between records (e.g. Camp 'Mixed Methods' vs 'Infrared Image'); treat as noisy observations, not a monotone sequence.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIFC Historic GeoMAC Perimeters 2003: Cedar 2003 perimeter history",
+    "provider": "NIFC (GeoMAC archive, USGS/NIFC)",
+    "fires_covered": [
+      "Cedar 2003"
+    ],
+    "temporal_resolution": "irregular, roughly 1 to 2 per day (8 perimeters, 2003-10-27 to 2003-11-06), timestamp field perimeterdatetime (UTC epoch ms)",
+    "spatial_resolution": "vector polygons, source mapping method varies (IR image, GPS, hand sketch, mixed)",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Geomac_Perimeters_2003/FeatureServer/0/query?where=uniquefireidentifier='2003-CACNF-003056'&outFields=*&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.50 MB",
+    "uq_use": "perimeter observation error and latency (mapmethod, perimeterdatetime vs datecurrent), ROS model error residuals, arrival-time calibration for ELMFIRE/GridFire/FARSITE ensembles",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Cedar_2003_NIFC_GeoMAC_perimeter_history.geojson",
+    "notes": "uniquefireidentifier 2003-CACNF-003056. Several perimeters per day come from different methods and can shrink between records (e.g. Camp 'Mixed Methods' vs 'Infrared Image'); treat as noisy observations, not a monotone sequence. Cedar 2003 has only 8 perimeters and the first is 2003-10-27, about 2 days after ignition, so the main 25 to 26 Oct run is not captured.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIFC Operational Data Archive 2025: Eaton Event_Polygon daily perimeter versions",
+    "provider": "NIFC (NIFS/Operational Data Archive)",
+    "fires_covered": [
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "edit versions: GDB_FROM_DATE/GDB_TO_DATE archive timestamps; PolygonDateTime mostly null (populated only on early 2025-01-08 records)",
+    "spatial_resolution": "vector polygons",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Operational_Data_Archive_2025/FeatureServer/6/query?where=IRWINID in ('{72660ADC-B5EF-4D96-A33F-B4EA3740A4E3}','{19A869B7-6CB6-4EF7-AD31-94F13BD1C622}') and FeatureCategory='Wildfire Daily Fire Perimeter'&outFields=*&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "4.59 MB",
+    "uq_use": "perimeter latency and revision history (how an operational perimeter changed as edits arrived), early growth only from 2025-01-08 records",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Eaton_2025_NIFC_OperationalDataArchive_perimeter_versions.geojson",
+    "notes": "44 records under two IRWIN IDs that both refer to the LA County Eaton Fire (duplicate IRWIN records). GDB_FROM_DATE is an edit time, extends to 2025-09, and is NOT an observation time; most polygons are near-final (about 13,900 to 14,000 ac). Only 5 records carry true early PolygonDateTime (0.1 to 2,227 ac on 2025-01-08).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "FIRIS and CAL FIRE intel-flight IR perimeters for Eaton (public read-only view hosted by Watch Duty)",
+    "provider": "FIRIS / CAL FIRE Intel / USFS, via Watch Duty ArcGIS Online view",
+    "fires_covered": [
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "20 perimeters 2025-01-09T02:29Z to 2025-01-21 (date_added), several duplicates",
+    "spatial_resolution": "airborne IR perimeters",
+    "format": "GeoJSON (EPSG:4326)",
+    "access": {
+      "url": "https://services5.arcgis.com/VNhSlpl1umSknM3q/arcgis/rest/services/FIRIS_perimeters_(Production_ReadOnly)/FeatureServer/0/query?where=1=1&geometry=-118.162,34.162,-118.013,34.238&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=status,description,date_added,source&outSR=4326&f=geojson",
+      "method": "ArcGIS REST query, public, no login",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.77 MB",
+    "uq_use": "airborne IR perimeter latency and inter-source disagreement (FIRIS vs CAL FIRE Intel Flight vs USFS), observation error model for data assimilation",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Eaton_2025_FIRIS_intel_perimeters_WatchDuty_view.geojson",
+    "notes": "Third-party hosted view, not an official archive; may change or disappear. date_added is ingest time, not flight time. First FIRIS perimeter 2025-01-09 02:29Z at 10,590 ac, i.e. the overnight 7 to 8 Jan wind-driven run is not captured. Internal approve/reject/archive URL fields were deliberately not downloaded.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "CAL FIRE CA Perimeters NIFC FIRIS public view",
+    "provider": "CAL FIRE (ITS.GIS.CALFIRE) ArcGIS Online",
+    "fires_covered": [
+      "Eaton 2025 (not retained)"
+    ],
+    "temporal_resolution": "current or active incidents only",
+    "spatial_resolution": "airborne IR perimeters",
+    "format": "ArcGIS feature service",
+    "access": {
+      "url": "https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/CA_Perimeters_NIFC_FIRIS_public_view/FeatureServer/0",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "unknown (small, live)",
+    "uq_use": "live FIRIS perimeter feed for future fires; perimeter latency priors if logged prospectively",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Query for EATON returned 0 features on 2026-09-30: the view holds current incidents only, not an archive. No public FIRIS archive for LNU 2020 was found.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NASA Fire Event Data Suite (FEDS) archive: Camp 2018 12-hourly VIIRS-derived perimeters and active fire lines",
+    "provider": "NASA EIS / VEDA (Chen et al. FEDS algorithm)",
+    "fires_covered": [
+      "Camp 2018"
+    ],
+    "temporal_resolution": "12-hourly (VIIRS overpass, t at 00:00 and 12:00 UTC)",
+    "spatial_resolution": "375 m VIIRS I-band active fire pixels aggregated to polygons",
+    "format": "GeoJSON via OGC API Features",
+    "access": {
+      "url": "https://openveda.cloud/api/features/collections/public.eis_fire_lf_perimeter_archive/items?fireid=<id>&datetime=<window>  (fireline: public.eis_fire_lf_fireline_archive)",
+      "method": "OGC API Features, public, page with limit<=40 (limit 100 returns HTTP 500 for large polygons)",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "2.15 MB perimeters + 0.24 MB firelines",
+    "uq_use": "independent satellite progression for ROS model error residuals, perimeter observation error (compare to IR perimeters), fire line length and FRP for intensity; 12 h cadence sets a floor on arrival-time resolution",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Camp_2018_NASA_FEDS_perimeter_12h.geojson ; 01_progression_perimeters/Camp_2018_NASA_FEDS_fireline_12h.geojson",
+    "notes": "fireid values are reused across years, always filter by datetime. IDs used: F17028. Archive covers 2018-01-02 to 2021-12-31 only, so Pioneer 2016, Cedar 2003 and Eaton 2025 are not in it. Attributes: farea (km2), fperim, flinelen, meanfrp, n_pixels, n_newpixels, duration.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NASA Fire Event Data Suite (FEDS) archive: Carr 2018 12-hourly VIIRS-derived perimeters and active fire lines",
+    "provider": "NASA EIS / VEDA (Chen et al. FEDS algorithm)",
+    "fires_covered": [
+      "Carr 2018"
+    ],
+    "temporal_resolution": "12-hourly (VIIRS overpass, t at 00:00 and 12:00 UTC)",
+    "spatial_resolution": "375 m VIIRS I-band active fire pixels aggregated to polygons",
+    "format": "GeoJSON via OGC API Features",
+    "access": {
+      "url": "https://openveda.cloud/api/features/collections/public.eis_fire_lf_perimeter_archive/items?fireid=<id>&datetime=<window>  (fireline: public.eis_fire_lf_fireline_archive)",
+      "method": "OGC API Features, public, page with limit<=40 (limit 100 returns HTTP 500 for large polygons)",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "3.40 MB perimeters + 0.43 MB firelines",
+    "uq_use": "independent satellite progression for ROS model error residuals, perimeter observation error (compare to IR perimeters), fire line length and FRP for intensity; 12 h cadence sets a floor on arrival-time resolution",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Carr_2018_NASA_FEDS_perimeter_12h.geojson ; 01_progression_perimeters/Carr_2018_NASA_FEDS_fireline_12h.geojson",
+    "notes": "fireid values are reused across years, always filter by datetime. IDs used: F9276. Archive covers 2018-01-02 to 2021-12-31 only, so Pioneer 2016, Cedar 2003 and Eaton 2025 are not in it. Attributes: farea (km2), fperim, flinelen, meanfrp, n_pixels, n_newpixels, duration.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NASA Fire Event Data Suite (FEDS) archive: LNU 2020 12-hourly VIIRS-derived perimeters and active fire lines",
+    "provider": "NASA EIS / VEDA (Chen et al. FEDS algorithm)",
+    "fires_covered": [
+      "LNU 2020"
+    ],
+    "temporal_resolution": "12-hourly (VIIRS overpass, t at 00:00 and 12:00 UTC)",
+    "spatial_resolution": "375 m VIIRS I-band active fire pixels aggregated to polygons",
+    "format": "GeoJSON via OGC API Features",
+    "access": {
+      "url": "https://openveda.cloud/api/features/collections/public.eis_fire_lf_perimeter_archive/items?fireid=<id>&datetime=<window>  (fireline: public.eis_fire_lf_fireline_archive)",
+      "method": "OGC API Features, public, page with limit<=40 (limit 100 returns HTTP 500 for large polygons)",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "8.50 MB perimeters + 1.12 MB firelines",
+    "uq_use": "independent satellite progression for ROS model error residuals, perimeter observation error (compare to IR perimeters), fire line length and FRP for intensity; 12 h cadence sets a floor on arrival-time resolution",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/LNU_2020_NASA_FEDS_perimeter_12h.geojson ; 01_progression_perimeters/LNU_2020_NASA_FEDS_fireline_12h.geojson",
+    "notes": "fireid values are reused across years, always filter by datetime. IDs used: F11529 (Hennessey and merged fires, max 1,265 km2); F11572 (Walbridge, max 231 km2); F11709 (about 11 km2, likely Meyers). Archive covers 2018-01-02 to 2021-12-31 only, so Pioneer 2016, Cedar 2003 and Eaton 2025 are not in it. Attributes: farea (km2), fperim, flinelen, meanfrp, n_pixels, n_newpixels, duration.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "Chen et al. 2022 California FEDS dataset (2012 to 2020), Readme and year-end Summary files",
+    "provider": "UC Irvine / Scientific Data (figshare collection 5601537)",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "other CA fires 2012 to 2020"
+    ],
+    "temporal_resolution": "12-hourly tracking, year-end summaries",
+    "spatial_resolution": "375 m VIIRS",
+    "format": "tar.gz of NetCDF + CSV (Summary), GeoPackage (Largefire, Snapshot)",
+    "access": {
+      "url": "https://doi.org/10.6084/m9.figshare.c.5601537.v1 ; Summary https://ndownloader.figshare.com/files/34062410 ; Readme https://ndownloader.figshare.com/files/34382966",
+      "method": "direct HTTPS download, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "Summary 1.87 MB, Readme 1.6 KB (downloaded); Largefire.tar.gz 98.7 MB, Snapshot.tar.gz 13.1 GB, Serialization.tar.gz 15.4 GB (not downloaded)",
+    "uq_use": "published, citable version of the FEDS perimeters (Sci Data 2022, doi 10.1038/s41597-022-01343-0) for ROS residuals and perimeter error; Largefire.tar.gz has per-fire time series GeoPackages",
+    "downloaded": true,
+    "local_path": "01_progression_perimeters/Chen2022_CA_FEDS_Summary.tar.gz ; 01_progression_perimeters/Chen2022_CA_FEDS_Readme.txt",
+    "notes": "Largefire.tar.gz (98.7 MB) skipped as over the 50 MB per-file cap; it is the one to fetch if the OGC API is unavailable. Readme states free use for research purposes.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIROPS / NIFC File Share incident IR products (IR perimeters, heat intensity)",
+    "provider": "NIFC National Infrared Operations",
+    "fires_covered": [
+      "Pioneer 2016",
+      "Carr 2018",
+      "Camp 2018",
+      "LNU 2020",
+      "Eaton 2025 (if flown)"
+    ],
+    "temporal_resolution": "nightly IR flights",
+    "spatial_resolution": "IR line scanner, typically a few meters",
+    "format": "shapefile / KMZ / PDF maps",
+    "access": {
+      "url": "https://ftp.wildfire.gov/ (Authenticated Access area: https://ftp.wildfire.gov/protected/incident_specific_data)",
+      "method": "FAMAuth login required since 2026-05-04",
+      "key_or_token_needed": "y (FAMAuth / Login.gov)"
+    },
+    "approx_size": "unknown",
+    "uq_use": "IR perimeter observation error and latency; many NIROPS perimeters are already embedded in the GeoMAC histories (mapmethod 'Infrared Image')",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Checked 2026-09-30: https://ftp.wildfire.gov/public/ lists only incident_specific_maps; incident data moved behind FAMAuth, and the site says it is not an archive. Out of scope under the no-login rule.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fire_progression",
+    "name": "NIFC WFIGS Interagency Perimeters and WFIGS Daily Perimeters (public)",
+    "provider": "NIFC WFIGS",
+    "fires_covered": [
+      "Eaton 2025 (2 daily + final only)"
+    ],
+    "temporal_resolution": "daily / final",
+    "spatial_resolution": "vector polygons",
+    "format": "ArcGIS feature service",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Daily_Perimeters_Public/FeatureServer/0 ; https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/WFIGS_Interagency_Perimeters/FeatureServer/0",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "unknown",
+    "uq_use": "final perimeter reference and sparse daily checkpoints",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "WFIGS Daily Perimeters returned only 2 daily and 2 final 'Eaton' records; the Operational Data Archive 2025 (downloaded) is richer. No 2020 daily perimeter service for LNU was found in the NIFC org (Historic GeoMAC series ends 2019; Enriched_Perimeters_2020 returned 0 features in the LNU bbox).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "GOES-16/17/18 ABI Fire Detection and Characterization (FDC) on AWS",
+    "provider": "NOAA NESDIS via NOAA Open Data Dissemination (AWS)",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "5 min CONUS (FDCC), 10 to 15 min full disk",
+    "spatial_resolution": "2 km at nadir (coarser at CA/ID view angles)",
+    "format": "NetCDF4",
+    "access": {
+      "url": "https://noaa-goes16.s3.amazonaws.com/ABI-L2-FDCC/<yyyy>/<doy>/<hh>/ ; https://noaa-goes18.s3.amazonaws.com/ABI-L2-FDCC/<yyyy>/<doy>/<hh>/",
+      "method": "anonymous S3 / HTTPS listing",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "about 0.23 to 0.77 MB per 5-min CONUS file (listed), so tens of MB per fire-day",
+    "uq_use": "detection latency and first-detection time priors, sub-daily fire activity timing between VIIRS overpasses",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Verified listings: GOES-16 2018 DOY 312 (Camp), 2020 DOY 230 (LNU), GOES-18 2025 DOY 008 (Eaton). GOES-16 FDC starts 2017, so Pioneer 2016 and Cedar 2003 have no GOES-R FDC. NIFC also has a live GOES_Heat_Detections service (recent only). Not downloaded: needs per-file NetCDF parsing and would exceed budget quickly.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS MODIS archive active fire points, Cedar 2003 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Cedar 2003"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis/2003/modis_2003_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.15 MB subset (1779 rows) from a 9.0 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Cedar_2003_FIRMS_MODIS_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS MODIS archive active fire points, Pioneer 2016 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Pioneer 2016"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis/2016/modis_2016_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.19 MB subset (2387 rows) from a 8.9 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Pioneer_2016_FIRMS_MODIS_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS VIIRS SNPP archive active fire points, Pioneer 2016 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Pioneer 2016"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp/2016/viirs-snpp_2016_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.00 MB subset (12264 rows) from a 34.5 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Pioneer_2016_FIRMS_VIIRS_SNPP_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS MODIS archive active fire points, Camp 2018 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Camp 2018"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis/2018/modis_2018_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.09 MB subset (1033 rows) from a 10.5 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Camp_2018_FIRMS_MODIS_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS VIIRS SNPP archive active fire points, Camp 2018 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Camp 2018"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp/2018/viirs-snpp_2018_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.38 MB subset (4658 rows) from a 44.4 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Camp_2018_FIRMS_VIIRS_SNPP_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS MODIS archive active fire points, Carr 2018 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Carr 2018"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis/2018/modis_2018_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.31 MB subset (3800 rows) from a 10.5 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Carr_2018_FIRMS_MODIS_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS VIIRS SNPP archive active fire points, Carr 2018 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Carr 2018"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp/2018/viirs-snpp_2018_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.15 MB subset (14145 rows) from a 44.4 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/Carr_2018_FIRMS_VIIRS_SNPP_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS MODIS archive active fire points, LNU 2020 subset",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "LNU 2020"
+    ],
+    "temporal_resolution": "per overpass (acq_date, acq_time UTC)",
+    "spatial_resolution": "1 km (MODIS) / 375 m (VIIRS I-band)",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis/2020/modis_2020_United_States.csv",
+      "method": "direct HTTPS download of yearly US file (no key), then local bbox and date filter",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "0.18 MB subset (2184 rows) from a 12.3 MB national file",
+    "uq_use": "detection latency, active-fire location error, independent ROS/arrival-time evidence, FRP as intensity proxy",
+    "downloaded": true,
+    "local_path": "02_active_fire/LNU_2020_FIRMS_MODIS_archive_subset.csv",
+    "notes": "Filtered to fire bbox padded 0.15 deg and fire date window (see README); bbox is a rectangle so nearby unrelated detections can be included. The national yearly file was deleted after subsetting.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS VIIRS S-NPP 2020 US yearly file (LNU 2020)",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "LNU 2020"
+    ],
+    "temporal_resolution": "per overpass",
+    "spatial_resolution": "375 m",
+    "format": "CSV",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp/2020/viirs-snpp_2020_United_States.csv",
+      "method": "direct HTTPS, no key",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "53.8 MB (HEAD content-length)",
+    "uq_use": "same as other FIRMS entries; VIIRS is the main higher-resolution detection source for LNU",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Skipped: over the 50 MB per-file cap. Alternatives: FIRMS area API with a free MAP_KEY, or the FEDS LNU perimeters already downloaded (built from VIIRS).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "active_fire",
+    "name": "NASA FIRMS 2025 detections (Eaton) and FIRMS area/archive API",
+    "provider": "NASA LANCE FIRMS",
+    "fires_covered": [
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "per overpass",
+    "spatial_resolution": "375 m / 1 km",
+    "format": "CSV / JSON",
+    "access": {
+      "url": "https://firms.modaps.eosdis.nasa.gov/api/area/csv/<MAP_KEY>/VIIRS_SNPP_SP/<bbox>/<days>/<date> ; archive download https://firms.modaps.eosdis.nasa.gov/download/",
+      "method": "API needs a free MAP_KEY (email registration); archive download tool needs Earthdata Login",
+      "key_or_token_needed": "y (MAP_KEY) / y (Earthdata Login)"
+    },
+    "approx_size": "small per request",
+    "uq_use": "detection latency and active-fire evidence for Eaton",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "2025 yearly country files returned HTTP 404 for modis, viirs-snpp, viirs-noaa20, viirs-noaa21 on 2026-09-30. The API returned 'Invalid MAP_KEY' without a key, so Eaton FIRMS data needs a key.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "gridMET daily surface meteorology and fire danger, point extracts at each fire",
+    "provider": "University of California Merced / Climatology Lab (Abatzoglou), THREDDS at Northwest Knowledge Network",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "Pioneer 2016",
+      "Eaton 2025",
+      "Cedar 2003"
+    ],
+    "temporal_resolution": "daily",
+    "spatial_resolution": "about 4 km (1/24 deg)",
+    "format": "CSV (scale and offset applied; temperature in K)",
+    "access": {
+      "url": "http://thredds.northwestknowledge.net:8080/thredds/ncss/agg_met_<var>_1979_CurrentYear_CONUS.nc?var=<name>&latitude=<lat>&longitude=<lon>&time_start=<t0>&time_end=<t1>&accept=csv",
+      "method": "THREDDS NetCDF Subset Service point query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "30 KB total, 7 files",
+    "uq_use": "daily wind speed/direction, RH, temperature, VPD, 100 h and 1000 h dead fuel moisture, ERC, BI: fuel moisture and wind input distributions and fire-danger context for each ensemble day",
+    "downloaded": true,
+    "local_path": "03_weather/Camp_2018_gridMET_daily_point.csv; 03_weather/Carr_2018_gridMET_daily_point.csv; 03_weather/Cedar_2003_gridMET_daily_point.csv; 03_weather/Eaton_2025_gridMET_daily_point.csv; 03_weather/LNU_2020_Hennessey_gridMET_daily_point.csv; 03_weather/LNU_2020_Walbridge_gridMET_daily_point.csv; 03_weather/Pioneer_2016_gridMET_daily_point.csv",
+    "notes": "One grid cell at the bbox center of each fire (weather_points.json); LNU split into Hennessey and Walbridge points. NCSS CSV returns packed integers; scale_factor/add_offset from the OPeNDAP DAS were applied (e.g. vs x0.1 m/s, tmmx x0.1+220 K). Daily means cannot represent the sub-daily wind events (Camp downslope wind, Eaton Santa Ana).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "ERA5 hourly single-level point series via Open-Meteo Historical Weather API",
+    "provider": "ECMWF Copernicus ERA5, served by Open-Meteo",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "Pioneer 2016",
+      "Eaton 2025",
+      "Cedar 2003"
+    ],
+    "temporal_resolution": "hourly",
+    "spatial_resolution": "0.25 deg (nearest grid point)",
+    "format": "CSV",
+    "access": {
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=<lat>&longitude=<lon>&start_date=<t0>&end_date=<t1>&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,surface_pressure,precipitation,vapour_pressure_deficit&wind_speed_unit=ms&timezone=UTC&models=era5",
+      "method": "HTTPS JSON API, no key (free non-commercial tier)",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "536 KB total, 7 files",
+    "uq_use": "hourly 10 m wind speed/direction/gust distributions for ensemble wind forcing, reanalysis-vs-station bias when compared to ASOS",
+    "downloaded": true,
+    "local_path": "03_weather/Camp_2018_ERA5_hourly_point_openmeteo.csv; 03_weather/Carr_2018_ERA5_hourly_point_openmeteo.csv; 03_weather/Cedar_2003_ERA5_hourly_point_openmeteo.csv; 03_weather/Eaton_2025_ERA5_hourly_point_openmeteo.csv; 03_weather/LNU_2020_Hennessey_ERA5_hourly_point_openmeteo.csv; 03_weather/LNU_2020_Walbridge_ERA5_hourly_point_openmeteo.csv; 03_weather/Pioneer_2016_ERA5_hourly_point_openmeteo.csv",
+    "notes": "Open-Meteo snaps to the nearest 0.25 deg ERA5 cell (grid_lat/grid_lon columns). ERA5 is known to under-resolve terrain-channelled downslope winds; use as a prior, not truth. Commercial use of Open-Meteo requires a paid plan.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "ASOS/AWOS hourly airport observations near each fire (Iowa Environmental Mesonet)",
+    "provider": "Iowa Environmental Mesonet (Iowa State University), from NWS/FAA ASOS",
+    "fires_covered": [
+      "Camp 2018 (OVE, CIC)",
+      "Carr 2018 (RDD, RBL)",
+      "LNU 2020 (STS, APC, VCB)",
+      "Pioneer 2016 (BOI, SNT)",
+      "Eaton 2025 (EMT, BUR)",
+      "Cedar 2003 (RNM, SEE)"
+    ],
+    "temporal_resolution": "hourly routine + specials",
+    "spatial_resolution": "station points",
+    "format": "CSV",
+    "access": {
+      "url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=<ID>&data=tmpf&data=relh&data=sknt&data=drct&data=gust&data=peak_wind_gust&data=peak_wind_drct&data=p01i&data=vsby&year1=..&tz=Etc/UTC&format=onlycomma&latlon=yes&elev=yes&missing=empty&trace=T&report_type=3&report_type=4",
+      "method": "HTTPS CGI, no key",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.32 MB total, 6 files",
+    "uq_use": "observed wind speed/direction/gust distributions and reanalysis bias; visibility as a smoke/aviation-ops constraint proxy",
+    "downloaded": true,
+    "local_path": "03_weather/Camp_2018_ASOS_hourly_IEM.csv; 03_weather/Carr_2018_ASOS_hourly_IEM.csv; 03_weather/Cedar_2003_ASOS_hourly_IEM.csv; 03_weather/Eaton_2025_ASOS_hourly_IEM.csv; 03_weather/LNU_2020_ASOS_hourly_IEM.csv; 03_weather/Pioneer_2016_ASOS_hourly_IEM.csv",
+    "notes": "Airports are valley/urban sites 10 to 60 km from the fire; they are not RAWS and do not sample ridge-top winds. sknt is knots, tmpf deg F.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "RAWS hourly and daily data, WRCC archive (raws.dri.edu)",
+    "provider": "Western Regional Climate Center, DRI",
+    "fires_covered": [
+      "all six (e.g. Jarbo Gap CJAR for Camp, record from April 2003)"
+    ],
+    "temporal_resolution": "hourly",
+    "spatial_resolution": "station points",
+    "format": "HTML / text lists, fire weather fw13",
+    "access": {
+      "url": "https://raws.dri.edu/cgi-bin/rawMAIN.pl?caCJAR",
+      "method": "web form",
+      "key_or_token_needed": "y (access code by email to wrcc@dri.edu)"
+    },
+    "approx_size": "small per station-month",
+    "uq_use": "fire-weather station wind and fuel moisture near the fire, the best in-situ wind input for spread models",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "On 2026-09-30 the daily summary form returned 'Due to recent bot attacks, we have had to disable access to hourly listings of data prior to 2026' and the data lister requires a password for data more than 30 days old. Request an access code from wrcc@dri.edu.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "Synoptic Data (MesoWest) Weather API timeseries",
+    "provider": "Synoptic Data PBC",
+    "fires_covered": [
+      "all six"
+    ],
+    "temporal_resolution": "station native (often 10 to 60 min for RAWS)",
+    "spatial_resolution": "station points",
+    "format": "JSON / CSV",
+    "access": {
+      "url": "https://api.synopticdata.com/v2/stations/timeseries?stid=<ID>&start=<yyyymmddHHMM>&end=<..>&token=<TOKEN> (docs https://docs.synopticdata.com/services/weather-data-api)",
+      "method": "REST API",
+      "key_or_token_needed": "y (token; historical access may be limited by plan)"
+    },
+    "approx_size": "small per station",
+    "uq_use": "RAWS and mesonet wind distributions at sub-hourly resolution",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Without a token the API returned {\"RESPONSE_MESSAGE\": \"Missing token\", HTTP 401}. Free academic tier terms not checked here.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "HRRR archive (NOAA High-Resolution Rapid Refresh) on AWS",
+    "provider": "NOAA via NOAA Open Data Dissemination (AWS)",
+    "fires_covered": [
+      "Pioneer 2016",
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "hourly analyses and forecasts",
+    "spatial_resolution": "3 km",
+    "format": "GRIB2 (+ .idx for byte-range subsetting)",
+    "access": {
+      "url": "https://noaa-hrrr-bdp-pds.s3.amazonaws.com/hrrr.<yyyymmdd>/conus/hrrr.t<HH>z.wrfsfcf<FF>.grib2",
+      "method": "anonymous S3 / HTTPS, byte-range via .idx",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "about 83 MB per wrfsfc file (2016-07-20 00z f00 listed at 82,973,924 bytes)",
+    "uq_use": "3 km hourly wind fields for ensemble forcing, forecast-error spread (forecast vs analysis) as wind uncertainty",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Verified listing for 2016-07-20. HRRR does not exist for 2003 (Cedar). Use the .idx files with HTTP range requests (e.g. Herbie) to pull only UGRD/VGRD 10 m for a small bbox.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "ERA5 reanalysis full fields (CDS and NSF NCAR mirror on AWS)",
+    "provider": "ECMWF Copernicus Climate Data Store; NSF NCAR RDA mirror on AWS",
+    "fires_covered": [
+      "all six"
+    ],
+    "temporal_resolution": "hourly",
+    "spatial_resolution": "0.25 deg",
+    "format": "NetCDF / GRIB",
+    "access": {
+      "url": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels ; https://nsf-ncar-era5.s3.amazonaws.com/e5.oper.an.sfc/<yyyymm>/",
+      "method": "CDS API (free account + key) or anonymous S3 on the NCAR mirror",
+      "key_or_token_needed": "CDS: y (free account); AWS mirror: n"
+    },
+    "approx_size": "NCAR mirror monthly global files about 220 to 435 MB each (listed for 2018-11)",
+    "uq_use": "gridded wind and humidity fields for ensembles; point series already downloaded via Open-Meteo",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Point extracts downloaded instead (see Open-Meteo entry).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "weather",
+    "name": "gridMET full grids (THREDDS/OPeNDAP)",
+    "provider": "Climatology Lab / Northwest Knowledge Network",
+    "fires_covered": [
+      "all six"
+    ],
+    "temporal_resolution": "daily",
+    "spatial_resolution": "4 km",
+    "format": "NetCDF via OPeNDAP",
+    "access": {
+      "url": "http://thredds.northwestknowledge.net:8080/thredds/reacch_climate_MET_aggregated_catalog.html",
+      "method": "OPeNDAP / NCSS bbox subset",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "small for a fire bbox subset",
+    "uq_use": "spatial fuel-moisture and wind fields for ensemble members",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Point extracts downloaded; bbox subsets are easy via the same NCSS endpoint with north/south/east/west parameters.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fuels_terrain",
+    "name": "LANDFIRE Product Service (LFPS) clip-and-ship API",
+    "provider": "USGS EROS / LANDFIRE",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020",
+      "Eaton 2025",
+      "Pioneer 2016 (LF2016 only)"
+    ],
+    "temporal_resolution": "version snapshots (LF2016 Remap, LF2020 topo, LF2022, LF2023, LF2024, LF2025)",
+    "spatial_resolution": "30 m",
+    "format": "GeoTIFF (zipped job output)",
+    "access": {
+      "url": "https://lfps.usgs.gov/api/products (product list) ; job submission at https://lfps.usgs.gov/",
+      "method": "REST job API with Layer_List e.g. LF2016_FBFM40;LF2016_CC;LF2016_CH;LF2016_CBH;LF2016_CBD;LF2020_Elev;LF2020_SlpD;LF2020_Asp and an AOI bbox",
+      "key_or_token_needed": "email required on the job form (no key)"
+    },
+    "approx_size": "a fire-sized AOI is typically a few MB to tens of MB per layer; unknown exactly",
+    "uq_use": "fuel-model and canopy input uncertainty (swap LF versions as ensemble members), terrain inputs",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Product list (138 layers) verified 2026-09-30. Fuels (FBFM40, CC, CH, CBH, CBD) exist in LFPS only for LF2016 and later. Suggested matches: Camp and Carr 2018 -> LF2016 Remap; LNU 2020 -> LF2016 (pre-fire) with LF2020 topo; Eaton 2025 -> LF2023 or LF2024; Pioneer 2016 -> LF2016 Remap may already include 2016 disturbance, so LF 2014 is preferred (see next entry).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fuels_terrain",
+    "name": "LANDFIRE 2014 (LF 1.4.0) fuels for Pioneer 2016",
+    "provider": "LANDFIRE",
+    "fires_covered": [
+      "Pioneer 2016"
+    ],
+    "temporal_resolution": "2014 conditions",
+    "spatial_resolution": "30 m",
+    "format": "GeoTIFF",
+    "access": {
+      "url": "unknown (not offered on https://landfire.gov/data/FullExtentDownloads, which lists LF2016 Remap to LF2025 only, nor in LFPS)",
+      "method": "contact helpdesk@landfire.gov or USGS data catalog",
+      "key_or_token_needed": "unknown"
+    },
+    "approx_size": "CONUS layer likely several GB (unknown)",
+    "uq_use": "pre-fire fuels for Pioneer to avoid post-fire contamination",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "No direct public URL found on 2026-09-30. A USFS ArcGIS Hub page titled 'Landfire 40 Scott and Burgon Fire Behavior Fuel Models Version 140 (CONUS) (Image Service)' appeared in search but returned HTTP 404.",
+    "verified": false,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fuels_terrain",
+    "name": "LANDFIRE 2001 Refresh FBFM40 CONUS (for Cedar 2003)",
+    "provider": "LANDFIRE / USGS",
+    "fires_covered": [
+      "Cedar 2003"
+    ],
+    "temporal_resolution": "2001 conditions",
+    "spatial_resolution": "30 m",
+    "format": "GeoTIFF",
+    "access": {
+      "url": "https://doi.org/10.5066/P13KXTGM (data.gov entry: https://catalog.data.gov/dataset/landfire-2001-refresh-scott-and-burgan-fire-behavior-fuel-model-fbfm40-conus)",
+      "method": "DOI landing page download",
+      "key_or_token_needed": "n (public)"
+    },
+    "approx_size": "unknown (CONUS layer, likely GB scale)",
+    "uq_use": "only LANDFIRE fuels close to pre-fire for 2003; large fuel-input uncertainty for Cedar should be expected",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "LF 2001 Refresh is a later retrospective product, not a 2003 era map. DOI resolved (HTTP 200).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fuels_terrain",
+    "name": "LANDFIRE full-extent CONUS downloads",
+    "provider": "LANDFIRE",
+    "fires_covered": [
+      "all (as national layers)"
+    ],
+    "temporal_resolution": "version snapshots",
+    "spatial_resolution": "30 m",
+    "format": "zipped GeoTIFF",
+    "access": {
+      "url": "https://landfire.gov/data-downloads/CONUS_LF2016/LF2016_FBFM40_CONUS.zip (and CONUS_LF2022/23/24/25, CONUS_Topo_LF2020)",
+      "method": "direct HTTPS",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "LF2016_FBFM40_CONUS.zip 3.11 GB; LF2023_FBFM40_CONUS.zip 3.34 GB (HEAD)",
+    "uq_use": "same as LFPS; use only if clipping locally",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Recorded only; far over budget.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "fuels_terrain",
+    "name": "USGS 3DEP DEM (1/3 arc-second tiles and dynamic ImageServer)",
+    "provider": "USGS National Map",
+    "fires_covered": [
+      "all six"
+    ],
+    "temporal_resolution": "static (tile dates vary)",
+    "spatial_resolution": "about 10 m (1/3 arc-second); 1 m lidar where available",
+    "format": "GeoTIFF",
+    "access": {
+      "url": "https://tnmaccess.nationalmap.gov/api/v1/products?datasets=National%20Elevation%20Dataset%20(NED)%201/3%20arc-second&bbox=<bbox>&prodFormats=GeoTIFF ; https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer (exportImage for a bbox)",
+      "method": "TNM Access API or ImageServer exportImage, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1x1 deg tile about 408 to 462 MB (e.g. USGS_13_n40w122 versions); a bbox exportImage is much smaller",
+    "uq_use": "terrain slope and aspect for spread models and for egress travel-rate (slope) calculations",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "LANDFIRE LF2020 Elev/SlpD/Asp (30 m) is an alternative consistent with the fuels grid.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "incident_resource",
+    "name": "ICS-209-PLUS wildfire incidents, daily sitreps, complex associations (1999 to 2020), subset for benchmark fires",
+    "provider": "St. Denis et al. 2023, Scientific Data (figshare 19858927 v3), CC BY 4.0",
+    "fires_covered": [
+      "Cedar 2003 (61 sitreps)",
+      "Pioneer 2016 (81)",
+      "Camp 2018 (38)",
+      "Carr 2018 (79)",
+      "LNU 2020 complex (61)"
+    ],
+    "temporal_resolution": "per ICS-209 report (about daily)",
+    "spatial_resolution": "incident",
+    "format": "CSV (subsets) + original zip",
+    "access": {
+      "url": "https://ndownloader.figshare.com/files/38766504 (ics209plus-wildfire.zip) ; https://ndownloader.figshare.com/files/38766492 (reference) ; landing https://doi.org/10.6084/m9.figshare.19858927.v3",
+      "method": "direct HTTPS download, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "zip 48.72 MB (kept); subsets: incidents 0.01 MB, sitreps 1.84 MB",
+    "uq_use": "reported acreage vs time (perimeter latency and reporting error), TOTAL_PERSONNEL and TOTAL_AERIAL per report (crew and aircraft commitment priors), containment %, fire behavior flags, evacuation and structure counts, FOD/MTBS join keys",
+    "downloaded": true,
+    "local_path": "05_incident_resource/ICS209PLUS_benchmark_incidents.csv ; 05_incident_resource/ICS209PLUS_benchmark_sitreps.csv ; 05_incident_resource/ICS209PLUS_benchmark_complex_associations.csv ; 05_incident_resource/ics209plus-wildfire.zip ; 05_incident_resource/ics209plus-reference.zip",
+    "notes": "INCIDENT_IDs: 2003_CA-CNF-003056_CEDAR, 2016_4416704_PIONEER, 2018_9220077_CAMP, 2018_9236519_CARR, 2020_11850821_LNU LIGHTNING COMPLEX. Sitrep CSV has multi-line narrative fields (use a proper CSV parser). Eaton 2025 is outside the 1999 to 2020 coverage. The full sitreps CSV inside the zip is 308 MB uncompressed. ics209plus-allhazards.zip (40.5 MB) and ics209plus-source.zip (427 MB) not downloaded.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "incident_resource",
+    "name": "Fire Program Analysis Fire Occurrence Database (FPA FOD), 6th edition 1992 to 2020",
+    "provider": "Short, K.C., USDA Forest Service Research Data Archive RDS-2013-0009.6",
+    "fires_covered": [
+      "Cedar 2003",
+      "Pioneer 2016",
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020"
+    ],
+    "temporal_resolution": "per fire record (discovery and containment date/time)",
+    "spatial_resolution": "ignition point",
+    "format": "GeoPackage / FileGDB / SQLite (zipped)",
+    "access": {
+      "url": "https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0009.6",
+      "method": "direct download from RDS landing page, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "download files listed as 136.26 MB to 213.96 MB",
+    "uq_use": "ignition location and discovery time uncertainty, containment-time distributions for large-fire priors",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Over the 50 MB cap. The ICS-209-PLUS incidents subset already carries FOD_ID_LIST, LRGST_FOD_ID and FOD discovery/containment DOY for the five 1999 to 2020 fires. NIFC's 'Historic_Fires_Karen_Short_1992_to_2018' service covers the NWCC area only (WA/OR), not ID or CA.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "incident_resource",
+    "name": "MTBS fire occurrence points (all mapped fires) with burn severity thresholds, subset for benchmark fires",
+    "provider": "MTBS (USGS EROS + USFS)",
+    "fires_covered": [
+      "Cedar 2003",
+      "Pioneer 2016",
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020 (Hennessey, Meyers)",
+      "Eaton 2025"
+    ],
+    "temporal_resolution": "one record per fire (ignition date, pre/post scene IDs)",
+    "spatial_resolution": "points; thresholds refer to 30 m Landsat dNBR",
+    "format": "CSV subset + original shapefile zip",
+    "access": {
+      "url": "https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/MTBS_Fire/data/composite_data/fod_pt_shapefile/mtbs_fod_pts_data.zip",
+      "method": "direct HTTPS, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "zip 3.50 MB; subset 0.00 MB (7 rows)",
+    "uq_use": "burned-area boundary acreage vs incident acreage (final-perimeter uncertainty), severity class thresholds for post-fire validation, Event_IDs to fetch per-fire severity bundles",
+    "downloaded": true,
+    "local_path": "05_incident_resource/MTBS_benchmark_fire_points.csv ; 05_incident_resource/mtbs_fod_pts_data.zip",
+    "notes": "Event_IDs: CA3293911676620031025 Cedar, ID4395011576220160718 Pioneer, CA3982012144020181108 Camp, CA4065012263020180723 Carr, CA3850412233720200817 Hennessey, CA3851412322420200817 Meyers, CA3419211810520250108 Eaton. Walbridge 2020 was not found by name in the points file. File last-modified 2026-09-30 05:08 GMT.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "incident_resource",
+    "name": "MTBS per-fire burn severity bundles and burned area boundaries",
+    "provider": "MTBS / USGS burnseverity.cr.usgs.gov",
+    "fires_covered": [
+      "all six"
+    ],
+    "temporal_resolution": "single assessment per fire",
+    "spatial_resolution": "30 m",
+    "format": "zip (GeoTIFF dNBR, RdNBR, severity class; shapefile boundary)",
+    "access": {
+      "url": "https://burnseverity.cr.usgs.gov/direct-download ; https://www.mtbs.gov/direct-download ; composite boundaries https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/MTBS_Fire/data/composite_data/burned_area_extent_shapefile/mtbs_perimeter_data.zip",
+      "method": "interactive viewer for per-fire bundles; direct HTTPS for composites",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "composite perimeter zip 390 MB (HEAD); per-fire bundles unknown",
+    "uq_use": "burn severity as a spatial validation target for spread/intensity ensembles",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Guessed per-fire URL pattern returned 404, so per-fire bundles must be fetched through the viewer using the Event_IDs above.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "aviation_ops",
+    "name": "DOI Office of Aviation Services UAS historic flight use (FY2017 to FY2026), personal fields removed",
+    "provider": "NIFC ArcGIS Online (DOI OAS, 'OAS 2U Historic Flight Use Data')",
+    "fires_covered": [
+      "no benchmark fire by name; national, includes Interagency Fire, Aerial Ignition, Mapping, Delivery"
+    ],
+    "temporal_resolution": "per mission report (date)",
+    "spatial_resolution": "point per mission",
+    "format": "CSV",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Flight_Use_20251204/FeatureServer/0/query?where=1=1&outFields=<selected>&returnGeometry=false&f=json (paged 2000)",
+      "method": "ArcGIS REST query, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "6.69 MB (23,142 records)",
+    "uq_use": "drone logistics priors: flights per mission, flight minutes/hours distributions, aircraft and payload mix, night ops, TFR presence, SAFECOM flag rate as an incident-rate proxy, only 3 'Delivery' missions (thin prior)",
+    "downloaded": true,
+    "local_path": "06_aviation_ops/DOI_OAS_UAS_flight_use_FY2017_2026_no_personal_fields.csv",
+    "notes": "Dropped fields with personal names or identifiers (GCS_Ops, VOs, FAA registration, Battery_ID, Flight_Notes, RPIC_Center) before saving. Coordinates are self-reported and some are malformed (e.g. positive longitudes in raw DDM fields); DD_*_Convert columns kept as published. FY counts: 2017 1,598; 2018 4,293; 2019 3,958; 2020 1,047; 2021 1,713; 2022 1,802; 2023 1,933; 2024 2,731; 2025 3,762; 2026 305 (partial).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "aviation_ops",
+    "name": "USFS Aviation Annual Reports CY2018 and CY2020",
+    "provider": "USDA Forest Service",
+    "fires_covered": [
+      "Camp 2018",
+      "Carr 2018",
+      "LNU 2020 (national context)"
+    ],
+    "temporal_resolution": "annual",
+    "spatial_resolution": "national / regional",
+    "format": "PDF",
+    "access": {
+      "url": "https://www.fs.usda.gov/sites/default/files/2019-07/cy2018_usfs_aviation_report_final_20190702.pdf ; https://www.fs.usda.gov/sites/default/files/2021-06/CY2020_USFSAviationReport_Final_1.pdf",
+      "method": "direct HTTPS, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.20 MB + 0.74 MB",
+    "uq_use": "airtanker and helicopter flight hours, gallons delivered, fleet size, availability for aerial logistics priors in the benchmark years",
+    "downloaded": true,
+    "local_path": "06_aviation_ops/USFS_Aviation_Annual_Report_CY2018.pdf ; 06_aviation_ops/USFS_Aviation_Annual_Report_CY2020.pdf",
+    "notes": "The CY2022 report is already in ../../../sources/ (S18). Other years: CY2019 https://www.fs.usda.gov/sites/default/files/2021-06/CY2019_USFS_AviationReport_Final_1.pdf and CY2021 https://www.fs.usda.gov/sites/default/files/2022-11/CY21-Aviation-Report.pdf (found in search, not opened).",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "aviation_ops",
+    "name": "NIFC UAS incursions statistics",
+    "provider": "NIFC",
+    "fires_covered": [
+      "national"
+    ],
+    "temporal_resolution": "annual / season to date",
+    "spatial_resolution": "national map",
+    "format": "web page with a graphic",
+    "access": {
+      "url": "https://www.nifc.gov/fire-information/statistics/uas-incursions",
+      "method": "web page",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "n/a",
+    "uq_use": "prior on drone-incursion-caused aerial shutdowns (ops disruption rate)",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Page opened 2026-09-30: the numbers are in an image ('drone incursion map and stats as of September 1 2026'), not a machine-readable table.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "aviation_ops",
+    "name": "FAA TFR list (current) and historical wildfire TFRs",
+    "provider": "FAA",
+    "fires_covered": [
+      "all six (historical not available)"
+    ],
+    "temporal_resolution": "current only",
+    "spatial_resolution": "TFR polygons",
+    "format": "web / XML",
+    "access": {
+      "url": "https://tfr.faa.gov/tfr3/?page=list",
+      "method": "web page",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "n/a",
+    "uq_use": "airspace constraint priors for drone delivery (TFR size, duration)",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "tfr.faa.gov shows active TFRs only. No public historical TFR archive for 2003 to 2025 fires was found in a web search on 2026-09-30 (one day's search). The DOI UAS flight-use data carries a TFR yes/no flag per mission; ICS-209 sitreps do not carry TFR details.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "aviation_ops",
+    "name": "NIFC historical aircraft/flight-use services (manned) and NICC annual reports",
+    "provider": "NIFC / NICC",
+    "fires_covered": [
+      "national"
+    ],
+    "temporal_resolution": "annual",
+    "spatial_resolution": "national",
+    "format": "ArcGIS / PDF",
+    "access": {
+      "url": "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historical_Flight_Use_Concurrent_20241115/FeatureServer ; https://www.nifc.gov/nicc/predictive-services/intelligence (annual reports)",
+      "method": "ArcGIS REST / PDF",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "unknown",
+    "uq_use": "resource mobilization and aircraft availability priors",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Historical_Flight_Use_Concurrent_20241115 was listed in the NIFC service directory but not inspected; content unknown.",
+    "verified": false,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "crew_egress",
+    "name": "Sullivan, Campbell, Dennison, Brewer, Butler 2020: firefighter travel rates by slope from GPS tracking of Type 1 crews (paper)",
+    "provider": "Fire 3(3):52, doi 10.3390/fire3030052, CC BY 4.0",
+    "fires_covered": [
+      "none (training hikes, 2019)"
+    ],
+    "temporal_resolution": "1 s GPS fixes (per paper)",
+    "spatial_resolution": "trail segments with lidar slope",
+    "format": "PDF",
+    "access": {
+      "url": "https://research.fs.usda.gov/download/treesearch/61249.pdf ; https://research.fs.usda.gov/treesearch/61249",
+      "method": "direct HTTPS, public",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "1.14 MB",
+    "uq_use": "egress travel rate vs slope with low/moderate/high tertile functions (Table 2 coefficients; 5-fold CV MAE 0.081 m/s for the moderate model), i.e. a published distribution for escape-route time",
+    "downloaded": true,
+    "local_path": "07_crew_egress/Sullivan2020_Fire_firefighter_travel_rates_GPS_Type1_crews.pdf",
+    "notes": "44 hikes, 9 trails, 209 km, 11 IHCs. No data availability statement or public raw GPS archive was found in the paper or in a web search (one day's search, 2026-09-30); the paper collected personal data (age, weight, etc.), so raw tracks are unlikely to be public. Ask the authors if raw residuals are needed.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "crew_egress",
+    "name": "Campbell, Dennison, Butler 2017: LiDAR-based analysis of slope, vegetation density and surface roughness effects on travel rates",
+    "provider": "USDA Forest Service Treesearch 55249",
+    "fires_covered": [
+      "none"
+    ],
+    "temporal_resolution": "n/a",
+    "spatial_resolution": "lidar-derived",
+    "format": "paper",
+    "access": {
+      "url": "https://research.fs.usda.gov/treesearch/55249",
+      "method": "web landing page",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "unknown",
+    "uq_use": "vegetation-density and roughness adjustments to egress travel rate",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "Landing page opened (HTTP 200). No downloadable dataset identified.",
+    "verified": true,
+    "accessed_date": "2026-09-30"
+  },
+  {
+    "category": "crew_egress",
+    "name": "Campbell et al. 2019 Escape Route Index (ERI)",
+    "provider": "Fire 2(3):40 (MDPI)",
+    "fires_covered": [
+      "none"
+    ],
+    "temporal_resolution": "n/a",
+    "spatial_resolution": "raster method",
+    "format": "paper",
+    "access": {
+      "url": "https://www.mdpi.com/2571-6255/2/3/40",
+      "method": "web",
+      "key_or_token_needed": "n"
+    },
+    "approx_size": "unknown",
+    "uq_use": "spatially explicit egress capacity using the slope travel-rate function",
+    "downloaded": false,
+    "local_path": null,
+    "notes": "MDPI returned HTTP 403 to automated requests on 2026-09-30; not opened. A PDF copy is linked from firescience.gov (https://www.firescience.gov/ords/prd/jf_jfsp/jf_jfsp/r/134/files/static/v192/fire-02-00040_Campbell_2019.pdf), not opened.",
+    "verified": false,
+    "accessed_date": "2026-09-30"
+  }
+]
