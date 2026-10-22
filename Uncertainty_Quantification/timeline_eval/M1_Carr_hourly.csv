@@ -1,0 +1,25 @@
+hour,period,aircraft_perimeter,ics209,events,sust,gust,rh,alta_x,type1_30,task
+26 Jul 06:00,Day,"7,016 ac, 11 h old","6,773 ac, 12 h old",,5,19,26,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 07:00,Day,"7,016 ac, 12 h old","20,000 ac, 1 h old","ICS-209 20,000 ac, 10% contained",7,20,26,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 08:00,Day,"7,016 ac, 13 h old","20,000 ac, 2 h old",,6,20,27,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 09:00,Day,"7,016 ac, 14 h old","20,000 ac, 3 h old",,6,17,26,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 10:00,Day,"7,016 ac, 15 h old","20,000 ac, 4 h old",,5,18,24,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 11:00,Day,"7,016 ac, 16 h old","20,000 ac, 5 h old",,3,14,22,fly,fly,Fresh perimeter for the morning plan; decide where the line and resources go
+26 Jul 12:00,Day,"7,016 ac, 17 h old","20,000 ac, 6 h old",,3,12,17,fly,fly,Type 1 holds whole-fire perimeter; Type 3 maps the active east flank
+26 Jul 13:00,Day,"7,016 ac, 18 h old","20,000 ac, 7 h old",,3,10,16,fly,fly,Type 1 holds whole-fire perimeter; Type 3 maps the active east flank
+26 Jul 14:00,Day,"48,237 ac, 1 h old","20,000 ac, 8 h old","Aircraft perimeter 48,237 ac",2,9,14,fly,fly,Type 1 holds whole-fire perimeter; Type 3 maps the active east flank
+26 Jul 15:00,Day,"48,237 ac, 2 h old","20,000 ac, 9 h old",,2,9,12,fly,fly,Type 1 holds whole-fire perimeter; Type 3 maps the active east flank
+26 Jul 16:00,Day,"48,237 ac, 3 h old","20,000 ac, 10 h old",,1,11,10,fly,fly,Type 1 holds whole-fire perimeter; Type 3 maps the active east flank
+26 Jul 17:00,Day,"44,484 ac, 0 h old","20,000 ac, 11 h old","17:30 run east at 2.5 mph, spotting over 1 mile; 17:34 perimeter 44,484 ac",3,9,8,fly,fly,"Track the run hourly: head, spots across the river; push the line to IC and divisions"
+26 Jul 18:00,Day,"44,484 ac, 1 h old","20,000 ac, 12 h old",,3,21,7,fly,fly,"Track the run hourly: head, spots across the river; push the line to IC and divisions"
+26 Jul 19:00,Day,"44,484 ac, 2 h old","28,763 ac, 0 h old","19:17 spots east of Sacramento River; 19:20 to 20:00 vortex on radar; 19:45 ICS-209 28,763 ac",2,14,9,fly,fly,"Track the run hourly: head, spots across the river; push the line to IC and divisions"
+26 Jul 20:00,Night,"44,484 ac, 3 h old","28,763 ac, 1 h old","ICS-209 still 28,763 ac (20:15, 21:00)",2,13,12,fly,fly,Night IR perimeter by Type 1 so the morning plan starts from a current line
+26 Jul 21:00,Night,"44,484 ac, 4 h old","28,763 ac, 1 h old",,3,12,15,fly,fly,Night IR perimeter by Type 1 so the morning plan starts from a current line
+26 Jul 22:00,Night,"44,484 ac, 5 h old","28,763 ac, 2 h old",,7,20,15,fly,fly,Night IR perimeter by Type 1 so the morning plan starts from a current line
+26 Jul 23:00,Night,"44,484 ac, 6 h old","28,763 ac, 3 h old",,9,20,29,fly,fly,Night IR perimeter by Type 1 so the morning plan starts from a current line
+27 Jul 00:00,Night,"50,050 ac, 1 h old","28,763 ac, 4 h old","Aircraft perimeter 50,050 ac; spots south of Whiskeytown Lake",4,18,30,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing
+27 Jul 01:00,Night,"50,050 ac, 2 h old","28,763 ac, 5 h old",,6,14,36,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing
+27 Jul 02:00,Night,"50,050 ac, 3 h old","28,763 ac, 6 h old",,5,13,31,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing
+27 Jul 03:00,Night,"50,050 ac, 4 h old","28,763 ac, 7 h old",,6,14,21,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing
+27 Jul 04:00,Night,"50,050 ac, 5 h old","28,763 ac, 8 h old",,2,14,20,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing
+27 Jul 05:00,Night,"50,050 ac, 6 h old","28,763 ac, 9 h old",,4,14,21,fly,fly,Night IR passes on spots and flanks; fresh perimeter before the briefing

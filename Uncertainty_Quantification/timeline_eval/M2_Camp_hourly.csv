@@ -1,0 +1,25 @@
+hour,period,aircraft_perimeter,ics209,events,sust,gust,rh,alta_x,type1_30,task
+08 Nov 06:00,Day,none yet,none yet,"06:25 first 911 call; 06:44 first engine, about 35 mph wind; 06:45 second ignition",18,40,23,no,no,Initial attack: first look and size-up from the engine or station drone
+08 Nov 07:00,Day,none yet,none yet,"07:10 engine estimate 200 to 300 ac; 07:37 Concow order; 07:50 first burnovers; 07:52 air attack 1,000 ac",14,28,21,no,fly,Search ahead of the head for spots toward Concow and Paradise; geolocate each for engines
+08 Nov 08:00,Day,none yet,none yet,"08:01 'fire is now in Paradise', 2,000 ac; 08:29 ICS-209 discovery time",6,25,18,no,fly,Search ahead of the head for spots toward Concow and Paradise; geolocate each for engines
+08 Nov 09:00,Day,"54,586 ac, 0 h old",none yet,"09:03 Paradise and Magalia under orders; 09:54 first aircraft perimeter 54,586 ac",14,21,17,fly,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 10:00,Day,"54,586 ac, 1 h old",none yet,10:45 Landsat 8 image (no area given),18,30,16,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 11:00,Day,"54,586 ac, 2 h old",none yet,,14,29,14,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 12:00,Day,"54,586 ac, 3 h old",none yet,,16,33,13,no,no,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 13:00,Day,"54,586 ac, 4 h old",none yet,,12,32,12,no,no,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 14:00,Day,"54,586 ac, 5 h old",none yet,,15,24,11,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 15:00,Day,"54,586 ac, 6 h old",none yet,,10,28,12,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 16:00,Day,"70,454 ac, 1 h old",none yet,"Aircraft perimeter 70,454 ac; satellite 81,810 ac",8,25,12,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 17:00,Day,"70,454 ac, 2 h old",none yet,,13,23,11,no,fly,Wide-area IR search downwind; confirm spots that threaten evacuation routes
+08 Nov 18:00,Day,"70,454 ac, 3 h old","16,000 ac, 0 h old","Green Sheet: first 12 h ran 15 mi, over 55,000 ac, spotting up to a mile ahead; 18:30 first ICS-209 16,000 ac",15,27,12,no,fly,Night IR search for spots outside the line; send positions to night operations
+08 Nov 19:00,Day,"70,454 ac, 4 h old","18,000 ac, 1 h old","19:20 ICS-209 18,000 ac; long-range spotting reported",18,30,12,no,fly,Night IR search for spots outside the line; send positions to night operations
+08 Nov 20:00,Night,"70,454 ac, 5 h old","18,000 ac, 2 h old",,19,34,12,no,no,Night IR search for spots outside the line; send positions to night operations
+08 Nov 21:00,Night,"70,454 ac, 6 h old","18,000 ac, 3 h old",,22,36,13,no,no,Night IR search for spots outside the line; send positions to night operations
+08 Nov 22:00,Night,"70,454 ac, 7 h old","18,000 ac, 4 h old",,22,39,14,no,no,Night IR search for spots outside the line; send positions to night operations
+08 Nov 23:00,Night,"70,454 ac, 8 h old","18,000 ac, 5 h old",,27,43,14,no,no,Night IR search for spots outside the line; send positions to night operations
+09 Nov 00:00,Night,"70,454 ac, 9 h old","18,000 ac, 6 h old",,25,48,14,no,no,Night IR search; list confirmed spots for the morning briefing
+09 Nov 01:00,Night,"70,454 ac, 10 h old","18,000 ac, 7 h old",,28,45,15,no,no,Night IR search; list confirmed spots for the morning briefing
+09 Nov 02:00,Night,"70,454 ac, 11 h old","18,000 ac, 8 h old",,27,48,15,no,no,Night IR search; list confirmed spots for the morning briefing
+09 Nov 03:00,Night,"70,454 ac, 12 h old","18,000 ac, 9 h old",,28,41,16,no,no,Night IR search; list confirmed spots for the morning briefing
+09 Nov 04:00,Night,"70,454 ac, 13 h old","18,000 ac, 10 h old","Satellite 92,880 ac",28,47,17,no,no,Night IR search; list confirmed spots for the morning briefing
+09 Nov 05:00,Night,"70,454 ac, 14 h old","18,000 ac, 11 h old",,29,45,17,no,no,Night IR search; list confirmed spots for the morning briefing

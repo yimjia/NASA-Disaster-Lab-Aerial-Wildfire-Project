@@ -1,0 +1,25 @@
+hour,period,aircraft_perimeter,ics209,events,sust,gust,rh,alta_x,type1_30,task
+18 Aug 06:00,Day,none yet,none yet,,0,7,41,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 07:00,Day,none yet,none yet,,4,9,45,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 08:00,Day,none yet,none yet,,3,8,39,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 09:00,Day,none yet,none yet,,1,6,36,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 10:00,Day,none yet,none yet,,5,7,37,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 11:00,Day,none yet,none yet,,8,10,30,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 12:00,Day,none yet,none yet,"Satellite (VIIRS) 7,328 ac for the main object",10,15,25,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 13:00,Day,none yet,none yet,,15,21,27,fly,fly,Morning: drones map which drops held and where to drop next
+18 Aug 14:00,Day,none yet,none yet,,23,28,28,no,fly,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 15:00,Day,none yet,none yet,,22,29,25,no,fly,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 16:00,Day,none yet,none yet,,26,36,24,no,no,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 17:00,Day,none yet,none yet,,28,36,23,no,no,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 18:00,Day,none yet,none yet,"Atlas Peak 29 mph sustained, 41 mph gusts",29,41,17,no,no,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 19:00,Day,none yet,none yet,,26,39,15,no,no,Daylight: helicopter and airtanker drops; drones map where drops held
+18 Aug 20:00,Night,none yet,none yet,Overnight 18 to 19 Aug: fires merge in a 12-mile run (agency chronology),17,29,15,no,fly,Night: crewed aircraft stand down; night water drop is a large UAS or OPA concept only
+18 Aug 21:00,Night,none yet,none yet,,15,24,8,no,fly,Night: crewed aircraft stand down; night water drop is a large UAS or OPA concept only
+18 Aug 22:00,Night,none yet,none yet,,14,23,13,no,fly,Night: crewed aircraft stand down; night water drop is a large UAS or OPA concept only
+18 Aug 23:00,Night,none yet,none yet,,13,22,15,fly,fly,Night: crewed aircraft stand down; night water drop is a large UAS or OPA concept only
+19 Aug 00:00,Night,none yet,none yet,"Satellite (VIIRS) 41,602 ac for the main object",11,18,15,fly,fly,"Night: drone IR shows where line held, ready for first light drops"
+19 Aug 01:00,Night,none yet,none yet,,10,15,13,fly,fly,"Night: drone IR shows where line held, ready for first light drops"
+19 Aug 02:00,Night,none yet,none yet,,5,11,13,fly,fly,"Night: drone IR shows where line held, ready for first light drops"
+19 Aug 03:00,Night,none yet,none yet,,7,12,11,fly,fly,"Night: drone IR shows where line held, ready for first light drops"
+19 Aug 04:00,Night,none yet,none yet,,7,10,11,fly,fly,"Night: drone IR shows where line held, ready for first light drops"
+19 Aug 05:00,Night,none yet,none yet,,9,15,10,fly,fly,"Night: drone IR shows where line held, ready for first light drops"

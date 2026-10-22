@@ -1,0 +1,22 @@
+{
+ "Pioneer": {
+  "aircraft_perimeters": 89,
+  "night_stamped_share": 0.213,
+  "night_growth_share": 0.397
+ },
+ "LNU": {
+  "aircraft_perimeters": 0,
+  "night_stamped_share": null,
+  "night_growth_share": null
+ },
+ "Carr": {
+  "aircraft_perimeters": 63,
+  "night_stamped_share": 0.095,
+  "night_growth_share": 0.285
+ },
+ "Camp": {
+  "aircraft_perimeters": 28,
+  "night_stamped_share": 0.036,
+  "night_growth_share": 0.455
+ }
+}

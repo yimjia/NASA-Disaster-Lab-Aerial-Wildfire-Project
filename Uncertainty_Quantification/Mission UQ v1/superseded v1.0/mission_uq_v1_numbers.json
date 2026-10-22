@@ -1,0 +1,24 @@
+{
+ "M3": {
+  "Camp first burnovers, Alta X, sustained": [
+   0.0004,
+   0.00585,
+   0.07075
+  ],
+  "Camp first burnovers, Alta X, gusts": [
+   0.7819,
+   0.8405,
+   0.90795
+  ],
+  "Camp first burnovers, Type 1 if 30 mph, gusts": [
+   0.0203,
+   0.0689,
+   0.22145
+  ],
+  "Carr 26 July, any drone listed, gusts": [
+   0.0212,
+   0.21085,
+   1.0
+  ]
+ }
+}

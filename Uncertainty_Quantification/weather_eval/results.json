@@ -1,0 +1,2250 @@
+{
+ "Camp": {
+  "CIC": {
+   "name": "CHICO MUNICIPAL",
+   "network": "Airport METAR; instrument platform unconfirmed",
+   "distance_km": 9.9,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 22,
+   "crit_sust_max_mph": 25.3,
+   "crit_sust_mean_mph": 8.2,
+   "crit_gust_max_mph": 20.7,
+   "crit_rh_min": 6.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 10.0,
+   "crit_gate": {
+    "hours_with_wind": 22,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.909,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.955,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 385,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.977,
+     "p_fly_gust": 0.282
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.99,
+     "p_fly_gust": 0.41
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.872
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 170,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.994,
+     "p_fly_gust": 0.4
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.994,
+     "p_fly_gust": 0.65
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.95
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "OVE": {
+   "name": "OROVILLE",
+   "network": "ASOS",
+   "distance_km": 12.4,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 15.0,
+   "crit_sust_mean_mph": 6.9,
+   "crit_gust_max_mph": 28.8,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 310.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.625
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.625
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 409,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.847
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.886
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.961
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 170,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.866
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.884
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.973
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "JBGC1": {
+   "name": "JARBO GAP RAWS",
+   "network": "RAWS",
+   "distance_km": 0.0,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 29.0,
+   "crit_sust_mean_mph": 18.6,
+   "crit_gust_max_mph": 48.0,
+   "crit_rh_min": 11.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 34.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.708,
+     "p_fly_gust": 0.042
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.75,
+     "p_fly_gust": 0.208
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.458
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.708
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 264,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.92,
+     "p_fly_gust": 0.682
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.966,
+     "p_fly_gust": 0.739
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.818
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.962
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.891,
+     "p_fly_gust": 0.618
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.945,
+     "p_fly_gust": 0.682
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.782
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.936
+    }
+   }
+  },
+  "PDEC1": {
+   "name": "PARADISE",
+   "network": "Ground weather station (DCP/HADS)",
+   "distance_km": 0.0,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 0,
+   "crit_sust_max_mph": null,
+   "crit_sust_mean_mph": null,
+   "crit_gust_max_mph": null,
+   "crit_rh_min": null,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": null,
+   "crit_gate": {
+    "hours_with_wind": 0,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": null,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": null,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": null,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": null,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 95,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 39,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "CICC1": {
+   "name": "Openshaw RAWS",
+   "network": "RAWS",
+   "distance_km": 1.8,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 16.0,
+   "crit_sust_mean_mph": 9.6,
+   "crit_gust_max_mph": 28.0,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 306.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.792
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.917
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 406,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.998,
+     "p_fly_gust": 0.887
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.929
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.97
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 169,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.923
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.947
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "CSTC1": {
+   "name": "COHASSET RAWS",
+   "network": "RAWS",
+   "distance_km": 9.5,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 6.0,
+   "crit_sust_mean_mph": 3.5,
+   "crit_gust_max_mph": 13.0,
+   "crit_rh_min": 7.0,
+   "crit_fuel_moisture_min": 3.0,
+   "crit_dir_median": 86.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 404,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.906
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.946
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.98
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 169,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.929
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.97
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.994
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "CDEC1": {
+   "name": "CARPENTER RIDGE",
+   "network": "RAWS",
+   "distance_km": 19.2,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 15.0,
+   "crit_sust_mean_mph": 6.2,
+   "crit_gust_max_mph": 34.0,
+   "crit_rh_min": 10.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 113.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.542
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.833
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.917
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 406,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.924
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.966
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.985
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 169,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.953
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.988
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "BNGC1": {
+   "name": "BANGOR RAWS",
+   "network": "RAWS",
+   "distance_km": 25.8,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 6.0,
+   "crit_sust_mean_mph": 2.5,
+   "crit_gust_max_mph": 17.0,
+   "crit_rh_min": 5.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 151.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 406,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.988
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 169,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.994
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "HMRC1": {
+   "name": "Chester - Humbug Summit RAWS",
+   "network": "RAWS",
+   "distance_km": 26.1,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 23,
+   "crit_sust_max_mph": 13.0,
+   "crit_sust_mean_mph": 9.3,
+   "crit_gust_max_mph": 31.0,
+   "crit_rh_min": 19.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 60.0,
+   "crit_gate": {
+    "hours_with_wind": 23,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.696
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.87
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.913
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 406,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.845
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.909
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.951
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.995
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 170,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.882
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.929
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "CBXC1": {
+   "name": "Mineral - Colby Mountains RAWS",
+   "network": "RAWS",
+   "distance_km": 27.6,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 29.0,
+   "crit_sust_mean_mph": 16.5,
+   "crit_gust_max_mph": 59.0,
+   "crit_rh_min": 9.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 78.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.792,
+     "p_fly_gust": 0.167
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.875,
+     "p_fly_gust": 0.208
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.458
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.625
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 407,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.985,
+     "p_fly_gust": 0.764
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.833
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.889
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.956
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 170,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.988,
+     "p_fly_gust": 0.735
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.859
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.924
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.959
+    }
+   }
+  },
+  "PKCC1": {
+   "name": "PIKE COUNTY LOOKOUT RAWS",
+   "network": "RAWS",
+   "distance_km": 28.9,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 21,
+   "crit_sust_max_mph": 24.0,
+   "crit_sust_mean_mph": 16.0,
+   "crit_gust_max_mph": 36.0,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 57.0,
+   "crit_gate": {
+    "hours_with_wind": 21,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.905,
+     "p_fly_gust": 0.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.143
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.619
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 403,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.98,
+     "p_fly_gust": 0.777
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.998,
+     "p_fly_gust": 0.831
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.913
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.99
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 170,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.971,
+     "p_fly_gust": 0.735
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.994,
+     "p_fly_gust": 0.794
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.9
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.988
+    }
+   }
+  },
+  "QYRC1": {
+   "name": "QUINCY ROAD RAWS",
+   "network": "RAWS",
+   "distance_km": 38.3,
+   "critical_window": "2018-11-08 06:00 to 2018-11-09 05:59 (8 to 9 Nov: first-day run and initial attack, 19 burnovers 07:50 to 15:15)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 2.0,
+   "crit_sust_mean_mph": 0.4,
+   "crit_gust_max_mph": 9.0,
+   "crit_rh_min": 12.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 210.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 404,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 169,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  }
+ },
+ "Carr": {
+  "MMOC1": {
+   "name": "Shasta - Mule Mountain",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 9.0,
+   "crit_sust_mean_mph": 4.1,
+   "crit_gust_max_mph": 21.0,
+   "crit_rh_min": 7.0,
+   "crit_fuel_moisture_min": 2.0,
+   "crit_dir_median": 298.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 921,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 382,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "OBRC1": {
+   "name": "WHISKEYTOWN HQ 2 (formerly Oak Bottom)",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 1.0,
+   "crit_sust_mean_mph": 0.5,
+   "crit_gust_max_mph": 7.0,
+   "crit_rh_min": 10.0,
+   "crit_fuel_moisture_min": 3.0,
+   "crit_dir_median": 208.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 921,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 382,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "SLFC1": {
+   "name": "SUGARLOAF RAWS - SHASTA",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 12.0,
+   "crit_sust_mean_mph": 4.7,
+   "crit_gust_max_mph": 21.0,
+   "crit_rh_min": 9.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 286.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 920,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.99
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.997
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 380,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.989
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.992
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "WEFC1": {
+   "name": "Weaverville 2NNE - Five Cent RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 10.0,
+   "crit_sust_mean_mph": 3.8,
+   "crit_gust_max_mph": 22.0,
+   "crit_rh_min": 6.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 218.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 919,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.98
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.995
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 379,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.995
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "RRAC1": {
+   "name": "REDDING AIRPORT CDF RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 11.0,
+   "crit_sust_mean_mph": 4.8,
+   "crit_gust_max_mph": 17.0,
+   "crit_rh_min": 7.0,
+   "crit_fuel_moisture_min": 2.0,
+   "crit_dir_median": 138.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 919,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.999
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 380,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "RDD": {
+   "name": "REDDING MUNICIPAL",
+   "network": "ASOS",
+   "distance_km": null,
+   "critical_window": "2018-07-26 06:00 to 2018-07-27 05:59 (26 to 27 Jul: run and fire whirl, warning 18:38, mayday 19:40)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 12.0,
+   "crit_sust_mean_mph": 6.2,
+   "crit_gust_max_mph": null,
+   "crit_rh_min": null,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 123.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 917,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 385,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   }
+  }
+ },
+ "Pioneer": {
+  "BCFI1": {
+   "name": "BEARSKIN CREEK",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2016-08-29 06:00 to 2016-08-30 05:59 (29 to 30 Aug: run of about 29,000 ac)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 9.0,
+   "crit_sust_mean_mph": 3.4,
+   "crit_gust_max_mph": 25.0,
+   "crit_rh_min": 16.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 120.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.958
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 1712,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.975
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.995
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.999
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 710,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.994
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.999
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.999
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "LTAI1": {
+   "name": "LITTLE ANDERSON RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2016-08-29 06:00 to 2016-08-30 05:59 (29 to 30 Aug: run of about 29,000 ac)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 4.0,
+   "crit_sust_mean_mph": 1.2,
+   "crit_gust_max_mph": 14.0,
+   "crit_rh_min": 11.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 146.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 1712,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 710,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "TCFI1": {
+   "name": "TOWN CREEK",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2016-08-29 06:00 to 2016-08-30 05:59 (29 to 30 Aug: run of about 29,000 ac)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 4.0,
+   "crit_sust_mean_mph": 1.2,
+   "crit_gust_max_mph": 17.0,
+   "crit_rh_min": 10.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 282.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 1712,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 708,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  }
+ },
+ "LNU": {
+  "ATLC1": {
+   "name": "Atlas Peak Raws",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 29.0,
+   "crit_sust_mean_mph": 12.8,
+   "crit_gust_max_mph": 41.0,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 258.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.792,
+     "p_fly_gust": 0.625
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.833,
+     "p_fly_gust": 0.708
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.833
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.958
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 0.981,
+     "p_fly_gust": 0.822
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 0.985,
+     "p_fly_gust": 0.907
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.967
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.993
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.918
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.936
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.991
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "KNXC1": {
+   "name": "KNOXVILLE",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 12.0,
+   "crit_sust_mean_mph": 6.5,
+   "crit_gust_max_mph": 22.0,
+   "crit_rh_min": 9.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 302.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.985
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "BKSC1": {
+   "name": "BROOKS RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 7.0,
+   "crit_sust_mean_mph": 3.7,
+   "crit_gust_max_mph": 21.0,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 288.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.993
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.993
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.993
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "WISC1": {
+   "name": "COUNTY LINE RAWS NR WILBUR SPRINGS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 18.0,
+   "crit_sust_mean_mph": 11.8,
+   "crit_gust_max_mph": 29.0,
+   "crit_rh_min": 15.0,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 246.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.5
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.833
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.878
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.944
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.989
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.882
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.955
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "HWKC1": {
+   "name": "Hawkeye RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 19.0,
+   "crit_sust_mean_mph": 10.0,
+   "crit_gust_max_mph": 29.0,
+   "crit_rh_min": 6.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 319.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.625
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.792
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.926
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.967
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.945
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.973
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "OAAC1": {
+   "name": "Anapolis - Oak Ridge RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 11.0,
+   "crit_sust_mean_mph": 8.3,
+   "crit_gust_max_mph": 24.0,
+   "crit_rh_min": 11.0,
+   "crit_fuel_moisture_min": 5.0,
+   "crit_dir_median": 342.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.833
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.959
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.985
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.964
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "KELC1": {
+   "name": "KONOCTI RAWS (MT. KONOCTI)",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 14.0,
+   "crit_sust_mean_mph": 9.8,
+   "crit_gust_max_mph": 26.0,
+   "crit_rh_min": 8.0,
+   "crit_fuel_moisture_min": 4.0,
+   "crit_dir_median": 293.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.792
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.958
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.948
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.981
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "RSAC1": {
+   "name": "SANTA ROSA RAWS",
+   "network": "RAWS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 10.0,
+   "crit_sust_mean_mph": 5.0,
+   "crit_gust_max_mph": 17.0,
+   "crit_rh_min": 15.0,
+   "crit_fuel_moisture_min": 6.0,
+   "crit_dir_median": 241.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.985
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.993
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.996
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.982
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 0.991
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": 1.0
+    }
+   }
+  },
+  "APC": {
+   "name": "Napa County",
+   "network": "ASOS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 14.2,
+   "crit_sust_mean_mph": 7.9,
+   "crit_gust_max_mph": null,
+   "crit_rh_min": null,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 172.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 265,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   }
+  },
+  "STS": {
+   "name": "Santa Rosa",
+   "network": "ASOS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 9.8,
+   "crit_sust_mean_mph": 5.1,
+   "crit_gust_max_mph": null,
+   "crit_rh_min": null,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 172.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 269,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   }
+  },
+  "VCB": {
+   "name": "VACAVILLE (WAS O45)",
+   "network": "ASOS",
+   "distance_km": null,
+   "critical_window": "2020-08-18 06:00 to 2020-08-19 05:59 (18 to 19 Aug: overnight merge and 12 mile run)",
+   "crit_hours_with_wind": 24,
+   "crit_sust_max_mph": 10.4,
+   "crit_sust_mean_mph": 5.9,
+   "crit_gust_max_mph": null,
+   "crit_rh_min": null,
+   "crit_fuel_moisture_min": null,
+   "crit_dir_median": 178.0,
+   "crit_gate": {
+    "hours_with_wind": 24,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_gate": {
+    "hours_with_wind": 270,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   },
+   "perimeter_night_gate": {
+    "hours_with_wind": 110,
+    "Alta X (22 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "SwitchBlade-Elite (25 mph)": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 30 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    },
+    "Type 1 FW if 40 mph": {
+     "p_fly_sustained": 1.0,
+     "p_fly_gust": null
+    }
+   }
+  }
+ }
+}

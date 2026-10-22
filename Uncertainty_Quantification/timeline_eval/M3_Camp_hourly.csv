@@ -1,0 +1,25 @@
+hour,period,aircraft_perimeter,ics209,events,sust,gust,rh,alta_x,type1_30,task
+08 Nov 06:00,Day,none yet,none yet,06:44 first engine; about 35 mph wind,18,40,23,no,no,Watch crews and engines on Concow Rd; check escape routes ahead of the head
+08 Nov 07:00,Day,none yet,none yet,"07:37 Concow order; 07:50 first burnovers (Hoffman Rd, Concow Rd)",14,28,21,no,fly,Watch crews and engines on Concow Rd; check escape routes ahead of the head
+08 Nov 08:00,Day,none yet,none yet,08:01 fire in Paradise; burnovers continue,6,25,18,no,fly,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 09:00,Day,"54,586 ac, 0 h old",none yet,09:03 Paradise and Magalia under orders; 09:54 first aircraft perimeter,14,21,17,fly,fly,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 10:00,Day,"54,586 ac, 1 h old",none yet,,18,30,16,no,fly,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 11:00,Day,"54,586 ac, 2 h old",none yet,,14,29,14,no,fly,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 12:00,Day,"54,586 ac, 3 h old",none yet,,16,33,13,no,no,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 13:00,Day,"54,586 ac, 4 h old",none yet,,12,32,12,no,no,Overwatch of crews in Paradise; mark safety zones and blocked routes; relay warnings
+08 Nov 14:00,Day,"54,586 ac, 5 h old",none yet,"14:15 firing operation, Rattlesnake Flats Rd; 14:45 wind shift, fire crosses road around crew",15,24,11,no,fly,Before and during firing: wind and fire position over Rattlesnake Flats; relay when radios saturate
+08 Nov 15:00,Day,"54,586 ac, 6 h old",none yet,15:00 emergency call unanswered; 15:15 burnover,10,28,12,no,fly,Before and during firing: wind and fire position over Rattlesnake Flats; relay when radios saturate
+08 Nov 16:00,Day,"70,454 ac, 1 h old",none yet,"Aircraft perimeter 70,454 ac",8,25,12,no,fly,Reassess safety zones and helicopter landing zones for the night
+08 Nov 17:00,Day,"70,454 ac, 2 h old",none yet,,13,23,11,no,fly,Reassess safety zones and helicopter landing zones for the night
+08 Nov 18:00,Day,"70,454 ac, 3 h old","16,000 ac, 0 h old","18:30 first ICS-209: 16,000 ac",15,27,12,no,fly,Reassess safety zones and helicopter landing zones for the night
+08 Nov 19:00,Day,"70,454 ac, 4 h old","18,000 ac, 1 h old",,18,30,12,no,fly,Reassess safety zones and helicopter landing zones for the night
+08 Nov 20:00,Night,"70,454 ac, 5 h old","18,000 ac, 2 h old",,19,34,12,no,no,Night overwatch of crews on the line; thermal view replaces the lookout
+08 Nov 21:00,Night,"70,454 ac, 6 h old","18,000 ac, 3 h old",,22,36,13,no,no,Night overwatch of crews on the line; thermal view replaces the lookout
+08 Nov 22:00,Night,"70,454 ac, 7 h old","18,000 ac, 4 h old",,22,39,14,no,no,Night overwatch of crews on the line; thermal view replaces the lookout
+08 Nov 23:00,Night,"70,454 ac, 8 h old","18,000 ac, 5 h old",,27,43,14,no,no,Night overwatch of crews on the line; thermal view replaces the lookout
+09 Nov 00:00,Night,"70,454 ac, 9 h old","18,000 ac, 6 h old",,25,48,14,no,no,Night overwatch; confirm escape routes are open for the morning shift
+09 Nov 01:00,Night,"70,454 ac, 10 h old","18,000 ac, 7 h old",,28,45,15,no,no,Night overwatch; confirm escape routes are open for the morning shift
+09 Nov 02:00,Night,"70,454 ac, 11 h old","18,000 ac, 8 h old",,27,48,15,no,no,Night overwatch; confirm escape routes are open for the morning shift
+09 Nov 03:00,Night,"70,454 ac, 12 h old","18,000 ac, 9 h old",,28,41,16,no,no,Night overwatch; confirm escape routes are open for the morning shift
+09 Nov 04:00,Night,"70,454 ac, 13 h old","18,000 ac, 10 h old",,28,47,17,no,no,Night overwatch; confirm escape routes are open for the morning shift
+09 Nov 05:00,Night,"70,454 ac, 14 h old","18,000 ac, 11 h old",,29,45,17,no,no,Night overwatch; confirm escape routes are open for the morning shift
