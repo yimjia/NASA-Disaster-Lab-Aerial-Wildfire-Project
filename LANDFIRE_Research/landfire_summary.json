@@ -1,0 +1,539 @@
+{
+ "Pioneer 2016": {
+  "pixels": 852147,
+  "acres": 189513,
+  "fuel_group_share": {
+   "Timber litter": 0.489,
+   "Timber-understory": 0.132,
+   "Grass-shrub": 0.132,
+   "Grass": 0.13,
+   "Shrub": 0.068,
+   "Non-burnable": 0.049
+  },
+  "top_fuel_models": [
+   [
+    "TL3",
+    0.2336
+   ],
+   [
+    "TL6",
+    0.1978
+   ],
+   [
+    "GR2",
+    0.0982
+   ],
+   [
+    "GS1",
+    0.0976
+   ],
+   [
+    "TU1",
+    0.0912
+   ],
+   [
+    "TL1",
+    0.0569
+   ]
+  ],
+  "surface_load_tac_burnable": {
+   "mean": 4.42,
+   "median": 4.8,
+   "p90": 6.8
+  },
+  "top_fccs": [
+   [
+    "Douglas-fir-Pacific ponderosa pine/oceanspray forest",
+    0.2123
+   ],
+   [
+    "Douglas-fir-Pacific ponderosa pine/oceanspray forest",
+    0.1362
+   ],
+   [
+    "Douglas-fir-Pacific ponderosa pine/oceanspray forest",
+    0.1251
+   ],
+   [
+    "Subalpine fir-Engelmann spruce-Douglas-fir-lodgepole pine forest",
+    0.0507
+   ],
+   [
+    "Bare Ground",
+    0.0486
+   ]
+  ],
+  "top_evt": [
+   [
+    "Recently Burned-Herb and Grass Cover",
+    0.6226
+   ],
+   [
+    "Middle Rocky Mountain Montane Douglas-fir Forest and Woodland",
+    0.063
+   ],
+   [
+    "Rocky Mountain Cliff Canyon and Massive Bedrock",
+    0.0452
+   ],
+   [
+    "Rocky Mountain Subalpine-Montane Mesic Meadow",
+    0.0426
+   ],
+   [
+    "Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",
+    0.0287
+   ],
+   [
+    "Northern Rocky Mountain Subalpine Deciduous Shrubland",
+    0.0276
+   ]
+  ],
+  "canopy_cover_pct_where_canopy": {
+   "median": 25.0,
+   "p10": 15.0,
+   "p90": 35.0
+  },
+  "canopy_share_of_area": 0.392,
+  "cbd_kg_m3": {
+   "median": 0.04,
+   "p10": 0.03,
+   "p90": 0.06
+  },
+  "cbh_m": {
+   "median": 4.1,
+   "p10": 0.3,
+   "p90": 10.0
+  },
+  "ch_m": {
+   "median": 19.0,
+   "p10": 7.0,
+   "p90": 35.0
+  },
+  "fdst_top": [
+   [
+    "Fire / High / Two to Five Years",
+    0.3759
+   ],
+   [
+    "Fire / Low / Two to Five Years",
+    0.355
+   ],
+   [
+    "Fire / Moderate / Two to Five Years",
+    0.2607
+   ],
+   [
+    "No Disturbance / NA / NA",
+    0.0066
+   ],
+   [
+    "Fire / High / Six to Ten Years",
+    0.0014
+   ]
+  ]
+ },
+ "Carr 2018": {
+  "pixels": 1049373,
+  "acres": 233375,
+  "fuel_group_share": {
+   "Timber-understory": 0.496,
+   "Timber litter": 0.163,
+   "Shrub": 0.139,
+   "Grass-shrub": 0.127,
+   "Grass": 0.039,
+   "Non-burnable": 0.036
+  },
+  "top_fuel_models": [
+   [
+    "TU5",
+    0.4859
+   ],
+   [
+    "GS2",
+    0.1191
+   ],
+   [
+    "SH7",
+    0.115
+   ],
+   [
+    "TL8",
+    0.1006
+   ],
+   [
+    "GR2",
+    0.0349
+   ],
+   [
+    "SH2",
+    0.0235
+   ]
+  ],
+  "surface_load_tac_burnable": {
+   "mean": 10.81,
+   "median": 14.0,
+   "p90": 14.4
+  },
+  "top_fccs": [
+   [
+    "California black oak woodland",
+    0.3189
+   ],
+   [
+    "Ponderosa pine-Jeffrey pine forest",
+    0.2134
+   ],
+   [
+    "Pacific ponderosa pine-Douglas-fir forest",
+    0.1519
+   ],
+   [
+    "Scrub oak chaparral shrubland",
+    0.0973
+   ],
+   [
+    "Bare Ground",
+    0.0529
+   ]
+  ],
+  "top_evt": [
+   [
+    "Mediterranean California Lower Montane Conifer Forest and Woodland",
+    0.2116
+   ],
+   [
+    "Mediterranean California Mixed Evergreen Forest",
+    0.1596
+   ],
+   [
+    "Mediterranean California Mesic Mixed Conifer Forest and Woodland",
+    0.1538
+   ],
+   [
+    "Northern and Central California Dry-Mesic Chaparral",
+    0.089
+   ],
+   [
+    "Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",
+    0.0578
+   ],
+   [
+    "Mediterranean California Lower Montane Black Oak Forest and Woodland",
+    0.0527
+   ]
+  ],
+  "canopy_cover_pct_where_canopy": {
+   "median": 55.0,
+   "p10": 35.0,
+   "p90": 75.0
+  },
+  "canopy_share_of_area": 0.813,
+  "cbd_kg_m3": {
+   "median": 0.11,
+   "p10": 0.01,
+   "p90": 0.16
+  },
+  "cbh_m": {
+   "median": 1.6,
+   "p10": 0.3,
+   "p90": 10.0
+  },
+  "ch_m": {
+   "median": 23.0,
+   "p10": 15.0,
+   "p90": 35.0
+  },
+  "fdst_top": [
+   [
+    "No Disturbance / NA / NA",
+    0.9692
+   ],
+   [
+    "Fire / Low / Six to Ten Years",
+    0.0051
+   ],
+   [
+    "Fire / Low / Two to Five Years",
+    0.005
+   ],
+   [
+    "Mechanical Remove / Low / Six to Ten Years",
+    0.0037
+   ],
+   [
+    "Mechanical Unknown / Low / Two to Five Years",
+    0.0032
+   ]
+  ]
+ },
+ "Camp 2018": {
+  "pixels": 689496,
+  "acres": 153340,
+  "fuel_group_share": {
+   "Timber-understory": 0.373,
+   "Timber litter": 0.22,
+   "Grass": 0.176,
+   "Grass-shrub": 0.11,
+   "Shrub": 0.079,
+   "Non-burnable": 0.042
+  },
+  "top_fuel_models": [
+   [
+    "TU5",
+    0.3616
+   ],
+   [
+    "GR2",
+    0.169
+   ],
+   [
+    "TL6",
+    0.1368
+   ],
+   [
+    "GS2",
+    0.0832
+   ],
+   [
+    "SH5",
+    0.0452
+   ],
+   [
+    "SH7",
+    0.0315
+   ]
+  ],
+  "surface_load_tac_burnable": {
+   "mean": 8.01,
+   "median": 6.2,
+   "p90": 14.0
+  },
+  "top_fccs": [
+   [
+    "California black oak woodland",
+    0.3163
+   ],
+   [
+    "Bare Ground",
+    0.1954
+   ],
+   [
+    "Pacific ponderosa pine-Douglas-fir forest",
+    0.1281
+   ],
+   [
+    "California live oak-blue oak woodland",
+    0.0888
+   ],
+   [
+    "Ponderosa pine-Jeffrey pine forest",
+    0.0517
+   ]
+  ],
+  "top_evt": [
+   [
+    "Mediterranean California Lower Montane Conifer Forest and Woodland",
+    0.1915
+   ],
+   [
+    "Mediterranean California Mesic Mixed Conifer Forest and Woodland",
+    0.1242
+   ],
+   [
+    "California Ruderal Grassland and Meadow",
+    0.1098
+   ],
+   [
+    "Mediterranean California Mixed Oak Woodland",
+    0.0771
+   ],
+   [
+    "California Lower Montane Foothill Pine Woodland and Savanna",
+    0.0621
+   ],
+   [
+    "Recently Burned-Tree Cover",
+    0.0516
+   ]
+  ],
+  "canopy_cover_pct_where_canopy": {
+   "median": 45.0,
+   "p10": 35.0,
+   "p90": 75.0
+  },
+  "canopy_share_of_area": 0.71,
+  "cbd_kg_m3": {
+   "median": 0.08,
+   "p10": 0.01,
+   "p90": 0.16
+  },
+  "cbh_m": {
+   "median": 1.0,
+   "p10": 0.3,
+   "p90": 10.0
+  },
+  "ch_m": {
+   "median": 23.0,
+   "p10": 15.0,
+   "p90": 31.0
+  },
+  "fdst_top": [
+   [
+    "No Disturbance / NA / NA",
+    0.9792
+   ],
+   [
+    "Fire / Low / Two to Five Years",
+    0.0038
+   ],
+   [
+    "Fire / Low / Six to Ten Years",
+    0.0029
+   ],
+   [
+    "Mechanical Unknown / Low / Six to Ten Years",
+    0.0023
+   ],
+   [
+    "Fire / Moderate / Two to Five Years",
+    0.0021
+   ]
+  ]
+ },
+ "LNU 2020": {
+  "pixels": 1631879,
+  "acres": 362921,
+  "fuel_group_share": {
+   "Shrub": 0.289,
+   "Timber-understory": 0.221,
+   "Grass": 0.212,
+   "Grass-shrub": 0.141,
+   "Timber litter": 0.117,
+   "Non-burnable": 0.019,
+   "Slash-blowdown": 0.002
+  },
+  "top_fuel_models": [
+   [
+    "GR2",
+    0.1956
+   ],
+   [
+    "TU5",
+    0.1682
+   ],
+   [
+    "SH7",
+    0.1657
+   ],
+   [
+    "SH2",
+    0.1139
+   ],
+   [
+    "GS2",
+    0.102
+   ],
+   [
+    "TL4",
+    0.0407
+   ]
+  ],
+  "surface_load_tac_burnable": {
+   "mean": 7.48,
+   "median": 8.3,
+   "p90": 14.4
+  },
+  "top_fccs": [
+   [
+    "Bare Ground",
+    0.2295
+   ],
+   [
+    "California live oak-blue oak woodland",
+    0.1619
+   ],
+   [
+    "Scrub oak chaparral shrubland",
+    0.145
+   ],
+   [
+    "Ponderosa pine-Jeffrey pine forest",
+    0.1341
+   ],
+   [
+    "California black oak woodland",
+    0.0768
+   ]
+  ],
+  "top_evt": [
+   [
+    "Northern and Central California Dry-Mesic Chaparral",
+    0.162
+   ],
+   [
+    "California Ruderal Grassland and Meadow",
+    0.1587
+   ],
+   [
+    "California Lower Montane Foothill Pine Woodland and Savanna",
+    0.1366
+   ],
+   [
+    "Mediterranean California Mixed Evergreen Forest",
+    0.1237
+   ],
+   [
+    "Recently Burned-Herb and Grass Cover",
+    0.0503
+   ],
+   [
+    "Mediterranean California Mixed Oak Woodland",
+    0.048
+   ]
+  ],
+  "canopy_cover_pct_where_canopy": {
+   "median": 45.0,
+   "p10": 35.0,
+   "p90": 65.0
+  },
+  "canopy_share_of_area": 0.526,
+  "cbd_kg_m3": {
+   "median": 0.08,
+   "p10": 0.01,
+   "p90": 0.16
+  },
+  "cbh_m": {
+   "median": 1.5,
+   "p10": 0.4,
+   "p90": 10.0
+  },
+  "ch_m": {
+   "median": 23.0,
+   "p10": 15.0,
+   "p90": 31.0
+  },
+  "fdst_top": [
+   [
+    "No Disturbance / NA / NA",
+    0.8828
+   ],
+   [
+    "Fire / Low / Two to Five Years",
+    0.0375
+   ],
+   [
+    "Fire / Moderate / Two to Five Years",
+    0.0309
+   ],
+   [
+    "Fire / High / Two to Five Years",
+    0.0254
+   ],
+   [
+    "Fire / Low / Six to Ten Years",
+    0.0093
+   ]
+  ]
+ }
+}

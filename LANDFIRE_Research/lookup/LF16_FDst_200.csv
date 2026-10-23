@@ -1,0 +1,57 @@
+VALUE,D_TYPE,D_SEVERITY,D_TIME,R,G,B,RED,GREEN,BLUE
+-9999,Fill-NoData,NA,NA,255,255,255,1,1,1
+0,No Disturbance,NA,NA,0,0,0,0,0,0
+111,Fire,Low,One Year,255,0,0,1,0,0
+112,Fire,Low,Two to Five Years,255,0,0,1,0,0
+113,Fire,Low,Six to Ten Years,255,0,0,1,0,0
+121,Fire,Moderate,One Year,255,0,0,1,0,0
+122,Fire,Moderate,Two to Five Years,255,0,0,1,0,0
+123,Fire,Moderate,Six to Ten Years,255,0,0,1,0,0
+131,Fire,High,One Year,255,0,0,1,0,0
+132,Fire,High,Two to Five Years,255,0,0,1,0,0
+133,Fire,High,Six to Ten Years,255,0,0,1,0,0
+211,Mechanical Add,Low,One Year,255,102,0,1,0.4,0
+212,Mechanical Add,Low,Two to Five Years,255,102,0,1,0.4,0
+213,Mechanical Add,Low,Six to Ten Years,255,102,0,1,0.4,0
+221,Mechanical Add,Moderate,One Year,255,102,0,1,0.4,0
+222,Mechanical Add,Moderate,Two to Five Years,255,102,0,1,0.4,0
+223,Mechanical Add,Moderate,Six to Ten Years,255,102,0,1,0.4,0
+231,Mechanical Add,High,One Year,255,102,0,1,0.4,0
+232,Mechanical Add,High,Two to Five Years,255,102,0,1,0.4,0
+233,Mechanical Add,High,Six to Ten Years,255,102,0,1,0.4,0
+311,Mechanical Remove,Low,One Year,255,255,119,1,1,0.466667
+312,Mechanical Remove,Low,Two to Five Years,255,255,119,1,1,0.466667
+313,Mechanical Remove,Low,Six to Ten Years,255,255,119,1,1,0.466667
+321,Mechanical Remove,Moderate,One Year,255,255,119,1,1,0.466667
+322,Mechanical Remove,Moderate,Two to Five Years,255,255,119,1,1,0.466667
+323,Mechanical Remove,Moderate,Six to Ten Years,255,255,119,1,1,0.466667
+331,Mechanical Remove,High,One Year,255,255,119,1,1,0.466667
+332,Mechanical Remove,High,Two to Five Years,255,255,119,1,1,0.466667
+333,Mechanical Remove,High,Six to Ten Years,255,255,119,1,1,0.466667
+411,Windthrow,Low,One Year,191,191,191,0.74902,0.74902,0.74902
+412,Windthrow,Low,Two to Five Years,191,191,191,0.74902,0.74902,0.74902
+413,Windthrow,Low,Six to Ten Years,191,191,191,0.74902,0.74902,0.74902
+421,Windthrow,Moderate,One Year,191,191,191,0.74902,0.74902,0.74902
+422,Windthrow,Moderate,Two to Five Years,191,191,191,0.74902,0.74902,0.74902
+423,Windthrow,Moderate,Six to Ten Years,191,191,191,0.74902,0.74902,0.74902
+431,Windthrow,High,One Year,191,191,191,0.74902,0.74902,0.74902
+432,Windthrow,High,Two to Five Years,191,191,191,0.74902,0.74902,0.74902
+433,Windthrow,High,Six to Ten Years,191,191,191,0.74902,0.74902,0.74902
+511,Insects-Disease,Low,One Year,0,0,255,0,0,1
+512,Insects-Disease,Low,Two to Five Years,0,0,255,0,0,1
+513,Insects-Disease,Low,Six to Ten Years,0,0,255,0,0,1
+521,Insects-Disease,Moderate,One Year,0,0,255,0,0,1
+522,Insects-Disease,Moderate,Two to Five Years,0,0,255,0,0,1
+523,Insects-Disease,Moderate,Six to Ten Years,0,0,255,0,0,1
+531,Insects-Disease,High,One Year,0,0,255,0,0,1
+532,Insects-Disease,High,Two to Five Years,0,0,255,0,0,1
+533,Insects-Disease,High,Six to Ten Years,0,0,255,0,0,1
+611,Mechanical Unknown,Low,One Year,4,45,117,0.015686,0.176471,0.458824
+612,Mechanical Unknown,Low,Two to Five Years,4,45,117,0.015686,0.176471,0.458824
+613,Mechanical Unknown,Low,Six to Ten Years,4,45,117,0.015686,0.176471,0.458824
+621,Mechanical Unknown,Moderate,One Year,4,45,117,0.015686,0.176471,0.458824
+622,Mechanical Unknown,Moderate,Two to Five Years,4,45,117,0.015686,0.176471,0.458824
+623,Mechanical Unknown,Moderate,Six to Ten Years,4,45,117,0.015686,0.176471,0.458824
+631,Mechanical Unknown,High,One Year,4,45,117,0.015686,0.176471,0.458824
+632,Mechanical Unknown,High,Two to Five Years,4,45,117,0.015686,0.176471,0.458824
+633,Mechanical Unknown,High,Six to Ten Years,4,45,117,0.015686,0.176471,0.458824

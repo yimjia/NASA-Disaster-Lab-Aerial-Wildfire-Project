@@ -1,0 +1,11 @@
+value,name,pixels,share,acres
+0,No Disturbance / NA / NA,1440602,0.8828,320382
+112,Fire / Low / Two to Five Years,61121,0.0375,13593
+122,Fire / Moderate / Two to Five Years,50437,0.0309,11217
+132,Fire / High / Two to Five Years,41443,0.0254,9217
+113,Fire / Low / Six to Ten Years,15164,0.0093,3372
+123,Fire / Moderate / Six to Ten Years,12400,0.0076,2758
+133,Fire / High / Six to Ten Years,8307,0.0051,1847
+612,Mechanical Unknown / Low / Two to Five Years,553,0.0003,123
+313,Mechanical Remove / Low / Six to Ten Years,535,0.0003,119
+613,Mechanical Unknown / Low / Six to Ten Years,447,0.0003,99
